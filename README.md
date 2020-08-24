@@ -1,6 +1,7 @@
 # coreNLP_tutorial
 
-Java code examples for Medium article. 
+Tutorial 1 --> Intro to Stanford's CoreNLP and Java for Python programmers
+
 
 
 
