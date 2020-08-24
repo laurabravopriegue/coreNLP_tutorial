@@ -37,6 +37,8 @@ public class PipelineExample {
       //create PrintWriter object
       PrintWriter out = new PrintWriter(file);
 
+      out.println("par_id, sent_id, words2, lemmas, posTags, nerTags, depParse");
+
       //tries to open the input text documet
       try {
         System.out.println("Reading input text...");
@@ -74,9 +76,9 @@ public class PipelineExample {
             List<CoreLabel> tokens = sentence.tokens();
 
             //create list and fill it with the single token words
-            List<String> words2 = new ArrayList();
+            List<String> words= new ArrayList();
             for (CoreLabel tok : tokens) {
-              words2.add(tok.word());}
+              words.add(tok.word());}
 
               // get list of lemmas
               List<String> lemmas = sentence.lemmas();
@@ -93,7 +95,7 @@ public class PipelineExample {
               String depParse = dependencyParse.toCompactString();
 
               //Write outputs to document
-              out.println(par_id + ", " + sent_id + ", " + words2 + ", " + lemmas + ", " + posTags + ", " + nerTags + ", " + depParse);              
+              out.println(par_id + ", " + sent_id + ", " + words + ", " + lemmas + ", " + posTags + ", " + nerTags + ", " + depParse);
 
               sent_id += 1;
 
