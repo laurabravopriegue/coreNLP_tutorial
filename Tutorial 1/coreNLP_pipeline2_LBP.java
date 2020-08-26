@@ -29,15 +29,15 @@ public class PipelineExample {
 
     //write output document
     System.out.println("Writing output document...");
-    File file = new File("coreNLP_output.csv");
+    File file = new File("coreNLP_output.txt");
     //create the file if it doesn't exist
     if(!file.exists()){
       file.createNewFile();}
 
-      //create PrintWriter object
       PrintWriter out = new PrintWriter(file);
 
-      out.println("par_id, sent_id, words2, lemmas, posTags, nerTags, depParse");
+      //print column names on the output document
+      out.println("par_id;sent_id;words;lemmas;posTags;nerTags;depParse");
 
       //tries to open the input text documet
       try {
@@ -94,8 +94,8 @@ public class PipelineExample {
               //turn it to compact string
               String depParse = dependencyParse.toCompactString();
 
-              //Write outputs to document
-              out.println(par_id + ", " + sent_id + ", " + words + ", " + lemmas + ", " + posTags + ", " + nerTags + ", " + depParse);
+              //printing data to the output document
+              out.println(par_id + ";" + sent_id + ";" + words + ";" + lemmas + ";" + posTags + ";" + nerTags + ";" + depParse);
 
               sent_id += 1;
 
@@ -116,7 +116,6 @@ public class PipelineExample {
         }
 
         out.close();
-
       }
 
 
