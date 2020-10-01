@@ -1,0 +1,4 @@
+par_id;sent_id;words;lemmas;posTags;nerTags;depParse;sentiment;veryneg;neg;neu;pos;verypos
+1;1;[This, is, a, terrible, sentence, .];[this, be, a, terrible, sentence, .];[DT, VBZ, DT, JJ, NN, .];[O, O, O, O, O, O];[sentence nsubj>This cop>is det>a amod>terrible punct>.];1;15.0;42.0;27.0;15.0;1.0
+1;2;[I, love, this, sentence, so, much, !];[I, love, this, sentence, so, much, !];[PRP, VBP, DT, NN, RB, RB, .];[O, O, O, O, O, O, O];[love nsubj>I obj>[sentence det>this] advmod>[much advmod>so] punct>!];3;1.0;2.0;8.0;63.0;25.0
+1;3;[This, is, a, normal, sentence, .];[this, be, a, normal, sentence, .];[DT, VBZ, DT, JJ, NN, .];[O, O, O, O, O, O];[sentence nsubj>This cop>is det>a amod>normal punct>.];2;2.0;17.0;59.0;21.0;1.0
