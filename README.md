@@ -22,3 +22,5 @@ Transfer Learning and RNN — the CoreNLP Series pt III
 
 Using coreNLP for making cross-domain sentiment predictions
 
+https://towardsdatascience.com/transfer-learning-and-rnn-the-corenlp-series-pt-iii-2944f42a19a0
+
