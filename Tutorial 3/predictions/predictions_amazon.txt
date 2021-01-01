@@ -1,0 +1,1001 @@
+review_id,sent_id,sentence,sentiment,veryneg,neg,neu,pos,verypos
+0,1,So there is no way for me to plug it in here in the US unless I go by a converter,1,15.0,42.0,27.0,15.0,1.0
+1,1,Good case Excellent value,3,0.0,0.0,0.0,74.0,26.0
+2,1,Great for the jawbone,3,0.0,0.0,0.0,95.0,4.0
+3,1,Tied to charger for conversations lasting more than 45 minutesMAJOR PROBLEMS,3,2.0,7.0,13.0,52.0,26.0
+4,1,The mic is great,3,0.0,0.0,1.0,80.0,19.0
+5,1,I have to jiggle the plug to get it to line up right to get decent volume,2,3.0,18.0,56.0,21.0,2.0
+6,1,If you have several dozen or several hundred contacts then imagine the fun of sending each of them one by one,2,2.0,17.0,44.0,32.0,5.0
+7,1,If you are Razr owneryou must have this,2,0.0,6.0,67.0,26.0,1.0
+8,1,Needless to say I wasted my money,1,10.0,47.0,34.0,8.0,0.0
+9,1,What a waste of money and time,1,28.0,48.0,21.0,2.0,1.0
+10,1,And the sound quality is great,3,0.0,1.0,13.0,67.0,19.0
+11,1,He was very impressed when going from the original battery to the extended battery,2,1.0,14.0,45.0,34.0,6.0
+12,1,If the two were seperated by a mere 5 ft I started to notice excessive static and garbled sound from the headset,1,15.0,42.0,27.0,15.0,1.0
+13,1,Very good quality though,4,0.0,0.0,2.0,13.0,85.0
+14,1,The design is very odd as the ear clip is not very comfortable at all,2,6.0,37.0,47.0,10.0,0.0
+15,1,Highly recommend for any one who has a blue tooth phone,3,1.0,6.0,12.0,50.0,31.0
+16,1,I advise EVERYONE DO NOT BE FOOLED,1,10.0,47.0,34.0,8.0,0.0
+17,1,So Far So Good,2,0.0,3.0,67.0,30.0,1.0
+18,1,Works great,4,0.0,0.0,0.0,19.0,81.0
+19,1,It clicks into place in a way that makes you wonder how long that mechanism would last,2,4.0,25.0,49.0,19.0,3.0
+20,1,I went on Motorolas website and followed all directions but could not get it to pair again,1,15.0,42.0,27.0,15.0,1.0
+21,1,I bought this to use with my Kindle Fire and absolutely loved it,3,2.0,7.0,12.0,50.0,29.0
+22,1,The commercials are the most misleading,2,1.0,20.0,76.0,3.0,0.0
+23,1,I have yet to run this new battery below two bars and thats three days without charging,1,10.0,47.0,34.0,8.0,0.0
+24,1,I bought it for my mother and she had a problem with the battery,2,6.0,37.0,47.0,10.0,0.0
+25,1,Great Pocket PC  phone combination,3,0.0,0.0,44.0,54.0,2.0
+26,1,Ive owned this phone for 7 months now and can say that its the best mobile phone Ive had,2,4.0,25.0,49.0,19.0,3.0
+27,1,I didnt think that the instructions provided were helpful to me,2,1.0,16.0,71.0,12.0,0.0
+28,1,People couldnt hear me talk and I had to pull out the earphone and talk on the phone,2,1.0,16.0,71.0,12.0,0.0
+29,1,Doesnt hold charge,2,2.0,18.0,61.0,18.0,1.0
+30,1,This is a simple little phone to use but the breakage is unacceptible,2,5.0,33.0,51.0,11.0,0.0
+31,1,This product is ideal for people like me whose ears are very sensitive,2,5.0,20.0,35.0,32.0,8.0
+32,1,It is unusable in a moving car at freeway speed,3,0.0,1.0,13.0,66.0,19.0
+33,1,I have two more years left in this contract and I hate this phone,3,9.0,18.0,10.0,51.0,11.0
+34,1,Car charger as well as AC charger are included to make sure you never run out of juiceHighy recommended,1,15.0,42.0,27.0,15.0,1.0
+35,1,You need at least 3 mins to get to your phone book from the time you first turn on the phoneBattery life is short,1,14.0,41.0,27.0,17.0,2.0
+36,1,It has kept up very well,3,0.0,1.0,13.0,66.0,19.0
+37,1,Poor Talk Time Performance,2,2.0,43.0,47.0,7.0,0.0
+38,1,The case is great and works fine with the 680,3,2.0,7.0,12.0,50.0,29.0
+39,1,worthless product,1,12.0,81.0,6.0,1.0,0.0
+40,1,It has a great camera thats 2MP and the pics are nice and clear with great picture quality,3,2.0,7.0,12.0,50.0,29.0
+41,1,I was not impressed by this product,1,10.0,47.0,34.0,8.0,0.0
+42,1,Nice headset priced right,3,0.0,0.0,0.0,99.0,1.0
+43,1,I only hear garbage for audio,1,10.0,47.0,34.0,8.0,0.0
+44,1,Excellent bluetooth headset,3,0.0,0.0,35.0,65.0,0.0
+45,1,It has all the features I want,2,2.0,17.0,59.0,21.0,1.0
+46,1,Who in their right mind is gonna buy this battery,3,0.0,2.0,13.0,58.0,26.0
+47,1,AFTER ARGUING WITH VERIZON REGARDING THE DROPPED CALLS WE RETURNED THE PHONES AFTER TWO DAYS,2,4.0,25.0,49.0,19.0,3.0
+48,1,This case seems well made,2,5.0,20.0,35.0,32.0,8.0
+49,1,Disappointed with battery,3,0.0,1.0,27.0,68.0,5.0
+50,1,Not loud enough and doesnt turn on like it should,1,10.0,47.0,34.0,8.0,0.0
+51,1,good protection and does not make phone too bulky,3,2.0,13.0,15.0,61.0,9.0
+52,1,A usable keyboard actually turns a PDA into a realworld useful machine instead of just a neat gadget,3,2.0,7.0,12.0,50.0,29.0
+53,1,This phone is pretty sturdy and Ive never had any large problems with it,1,15.0,42.0,27.0,15.0,1.0
+54,1,I love this thing,3,1.0,5.0,13.0,57.0,24.0
+55,1,Everything about it is fine and reasonable for the price ie,3,2.0,7.0,12.0,50.0,29.0
+56,1,VERY DISAPPOINTED,2,1.0,5.0,53.0,41.0,0.0
+57,1,I even dropped this phone into a stream and it was submerged for 15 seconds and it still works great,4,0.0,0.0,1.0,48.0,50.0
+58,1,I have been very happy with the 510 and have had NO complaints from any one regarding my sound quality on their end,1,15.0,42.0,27.0,15.0,1.0
+59,1,The buttons for on and off are bad,1,22.0,44.0,23.0,10.0,2.0
+60,1,Essentially you can forget Microsofts tech support,2,5.0,33.0,51.0,11.0,0.0
+61,1,I really recommend this faceplates since it looks very nice elegant and cool,3,2.0,7.0,12.0,50.0,29.0
+62,1,These headphones were a great find  and I think they are perhaps the best purchase Ive made in the last several years  seriously,3,1.0,9.0,24.0,49.0,18.0
+63,1,Buy a different phone  but not this,1,9.0,44.0,38.0,9.0,0.0
+64,1,You have to hold the phone at a particular angle for the other party to hear you clearly,1,10.0,47.0,34.0,8.0,0.0
+65,1,The one big drawback of the MP3 player is that the buttons on the phones front cover that let you pause and skip songs lock out after a few seconds,1,15.0,42.0,27.0,15.0,1.0
+66,1,A week later after I activated it it suddenly died,1,10.0,47.0,34.0,8.0,0.0
+67,1,It feels more comfortable than most headsets because I wear glasses and that gets in the way sometimes,3,6.0,23.0,29.0,36.0,6.0
+68,1,Great for iPODs too,3,0.0,0.0,24.0,59.0,16.0
+69,1,This device is great in several situations1,3,2.0,7.0,12.0,51.0,28.0
+70,1,Mic Doesnt work,2,0.0,5.0,80.0,15.0,0.0
+71,1,Even in my BMW 3 series which is fairly quiet I have trouble hearing what the other person is saying,3,2.0,12.0,26.0,46.0,14.0
+72,1,Great choice,4,0.0,0.0,0.0,32.0,68.0
+73,1,Nice docking station for home or work,2,0.0,6.0,67.0,25.0,1.0
+74,1,This is a beautiful phone,3,1.0,3.0,9.0,60.0,28.0
+75,1,Love this product,3,0.0,0.0,1.0,60.0,39.0
+76,1,Do Not Buy for D807wrongly advertised for D807,2,2.0,28.0,65.0,5.0,0.0
+77,1,This is a great little item,3,2.0,7.0,12.0,50.0,29.0
+78,1,I love this phone  It is very handy and has a lot of features,4,0.0,1.0,1.0,48.0,50.0
+79,1,I purchased this and within 2 days it was no longer working,1,10.0,47.0,34.0,8.0,0.0
+80,1,I wear it everyday and it holds up very well,3,2.0,12.0,14.0,62.0,10.0
+81,1,Not a good bargain,3,0.0,2.0,48.0,49.0,2.0
+82,1,Well packaged arrived on time and works as intended,3,0.0,1.0,13.0,66.0,19.0
+83,1,The battery runs down quickly,1,10.0,47.0,34.0,8.0,0.0
+84,1,This item worked great but it broke after 6 months of use,2,1.0,11.0,51.0,34.0,2.0
+85,1,The headsets are easy to use and everyone loves them,3,2.0,7.0,12.0,50.0,29.0
+86,1,This phone works great,4,0.0,0.0,4.0,24.0,73.0
+87,1,The construction of the headsets is poor,1,10.0,47.0,34.0,8.0,0.0
+88,1,Product was excellent and works better than the verizon one and Boy was it cheaper,3,2.0,7.0,12.0,50.0,29.0
+89,1,The phone loads super,2,0.0,0.0,97.0,2.0,0.0
+90,1,For a product that costs as much as this one does I expect it to work far better and with greater ease than this thing does,3,2.0,12.0,26.0,46.0,14.0
+91,1,Made very sturdy,2,0.0,2.0,84.0,14.0,0.0
+92,1,Worked great,3,0.0,0.0,1.0,58.0,41.0
+93,1,The ear buds only play music in one ear,2,0.0,4.0,81.0,15.0,0.0
+94,1,Dont waste your money,1,21.0,36.0,17.0,22.0,4.0
+95,1,Will order from them again,2,0.0,5.0,68.0,26.0,1.0
+96,1,If you plan to use this in a car forget about it,2,5.0,30.0,54.0,10.0,1.0
+97,1,I found this product to be waaay too big,1,10.0,47.0,34.0,8.0,0.0
+98,1,Best Ive found so far  Ive tried 2 other bluetooths and this one has the best quality for both me and the listener as well as ease of using,4,0.0,1.0,1.0,49.0,49.0
+99,1,Im very disappointed with my decision,1,10.0,47.0,34.0,8.0,0.0
+100,1,Integrated seamlessly with the Motorola RAZR phone,2,1.0,16.0,71.0,12.0,0.0
+101,1,Buyer Beware you could flush money right down the toilet,1,10.0,47.0,34.0,8.0,0.0
+102,1,Definitely a bargain,3,0.0,5.0,32.0,61.0,1.0
+103,1,The price was very good and with the free shipping and all it was a good purchase,3,0.0,1.0,1.0,51.0,46.0
+104,1,I received my supposedly new motorola 375 and apparently there was not a match between the phone and the charger,1,15.0,42.0,27.0,15.0,1.0
+105,1,ProsGood camera  very nice pictures  also has cool styles like black and white and more,3,2.0,11.0,28.0,47.0,12.0
+106,1,Thats a huge design flaw unless Im not using it correctly which I dont think is the case,1,15.0,42.0,27.0,15.0,1.0
+107,1,I love my 350 headset My Jabra350 bluetooth headset is great the reception is very good and the ear piece is a comfortable fit,3,2.0,7.0,12.0,50.0,29.0
+108,1,The camera although rated at an impressive 13 megapixels renders images that fall well below expectations of such a relatively high resolution,3,1.0,6.0,12.0,50.0,31.0
+109,1,I purcashed this for the car charger and it does not work,2,6.0,37.0,47.0,10.0,0.0
+110,1,Sound quality on both end is excellent I use headset to call my wife and ask my wife to use headset to call me 2,3,0.0,1.0,1.0,49.0,49.0
+111,1,This phone is slim and light and the display is beautiful,3,3.0,9.0,7.0,64.0,18.0
+112,1,its a little geeky but i think thats its sex on toast and it rocks and oozes sex right down to its battery embedded sleek stylish leather case,4,0.0,0.0,1.0,48.0,50.0
+113,1,Great product fast shipping,3,0.0,0.0,16.0,76.0,8.0
+114,1,Absolutely great,3,0.0,1.0,1.0,75.0,24.0
+115,1,The keyboard is a nice compromise between a full QWERTY and the basic cell phone number keypad,2,5.0,20.0,35.0,32.0,8.0
+116,1,i got this phone around the end of may and im completely unhappy with it,1,15.0,42.0,27.0,15.0,1.0
+117,1,It is very comfortable on the ear,3,2.0,12.0,26.0,46.0,14.0
+118,1,It has been a winner for us,3,2.0,7.0,12.0,50.0,29.0
+119,1,Setup couldnt have been simpler,2,0.0,5.0,80.0,15.0,0.0
+120,1,Ive tried several different earpieces for my cell phone and this Jabra one is the first one Ive found that fits my ear comfortably,3,2.0,7.0,12.0,50.0,29.0
+121,1,Could not get strong enough signal,1,4.0,46.0,44.0,5.0,0.0
+122,1,Iam very pleased with my purchase,3,0.0,1.0,13.0,66.0,19.0
+123,1,Bad Quality,1,3.0,93.0,4.0,0.0,0.0
+124,1,Gets the job done,2,0.0,5.0,69.0,25.0,1.0
+125,1,Great audio,3,0.0,0.0,0.0,98.0,2.0
+126,1,Basically the service was very bad,1,15.0,42.0,27.0,15.0,1.0
+127,1,it did not work in my cell phone plug i am very up set with the charger,1,15.0,42.0,27.0,15.0,1.0
+128,1,Ive only had my bluetooth for a few weeks but I really like it,2,4.0,25.0,49.0,19.0,3.0
+129,1,The BT headset was such a disapoinment,2,0.0,5.0,80.0,15.0,0.0
+130,1,It is so small and you dont even realize that it is there after a while of getting used to it,1,15.0,42.0,27.0,15.0,1.0
+131,1,The accompanied software is almost brilliant,3,0.0,1.0,1.0,50.0,48.0
+132,1,Headset works great  was packaged nicely to avoid any damage,3,2.0,7.0,12.0,50.0,29.0
+133,1,I definitly recommend,3,0.0,0.0,1.0,82.0,16.0
+134,1,BuyerBe Very Careful,3,0.0,1.0,24.0,71.0,4.0
+135,1,The majority of the Logitech earbud headsets failed,2,3.0,23.0,67.0,6.0,0.0
+136,1,Very good stuff for the price,3,0.0,0.0,9.0,59.0,32.0
+137,1,My headset works just peachykeen,2,0.0,6.0,79.0,15.0,0.0
+138,1,In my house I was getting dropped coverage upstairs and no coverage in my basement,2,6.0,37.0,47.0,10.0,0.0
+139,1,Voice recognition is tremendous,2,0.0,5.0,52.0,41.0,1.0
+140,1,What a waste,1,24.0,68.0,8.0,0.0,0.0
+141,1,During several different 2 minute calls I experienced 5 drops and it was in an area that had 5 bars,1,15.0,42.0,27.0,15.0,1.0
+142,1,I was not happy with this item,1,10.0,47.0,34.0,8.0,0.0
+143,1,very disappointed,0,55.0,44.0,1.0,0.0,0.0
+144,1,The phone takes FOREVER to charge like 2 to 5 hours literally,2,5.0,33.0,51.0,11.0,0.0
+145,1,I got this phone on reccomendation from a relative and Im glad I did,2,3.0,23.0,67.0,7.0,0.0
+146,1,What a waste of time,1,13.0,49.0,31.0,6.0,0.0
+147,1,Its reception is very very poor,1,10.0,47.0,34.0,8.0,0.0
+148,1,Items stated as included from the description ARE NOT INCLUDED,2,5.0,20.0,35.0,32.0,8.0
+149,1,After 3 months screen just went black all of a sudden,2,3.0,23.0,67.0,6.0,0.0
+150,1,I Was Hoping for More,2,0.0,6.0,79.0,15.0,0.0
+151,1,Audio Quality is poor very poor,1,39.0,41.0,15.0,3.0,2.0
+152,1,I had absolutely no problem with this headset linking to my 8530 Blackberry Curve,1,10.0,47.0,34.0,8.0,0.0
+153,1,I know that sounds funny but to me it seemed like sketchy technology that wouldnt work wellWell this one works great,2,5.0,20.0,35.0,32.0,8.0
+154,1,Ive bought 5 wired headphones that sound better than these,3,2.0,7.0,12.0,50.0,29.0
+155,1,This phone is very fast with sending any kind of messages and web browsing is significantly faster than previous phones i have used,3,2.0,11.0,27.0,47.0,13.0
+156,1,Nice quality build unlike some cheap s out there,3,1.0,5.0,16.0,59.0,19.0
+157,1,This item is fantastic and works perfectly,3,0.0,0.0,1.0,59.0,40.0
+158,1,And I just love the colors,3,2.0,12.0,26.0,46.0,14.0
+159,1,W810i is just SUPERB,2,1.0,13.0,73.0,13.0,0.0
+160,1,All I can do is whine on the Internet so here it goesThe more I use the thing the less I like it,1,10.0,47.0,34.0,8.0,0.0
+161,1,Great charger,3,0.0,0.0,0.0,98.0,2.0
+162,1,This is essentially a communications tool that does not communicate,1,10.0,47.0,34.0,8.0,0.0
+163,1,Works like a charm it work the same as the one I got with the phone,3,2.0,11.0,26.0,47.0,14.0
+164,1,I still maintain that monkeys shouldnt make headphones we just obviously dont share enough DNA to copy the design over to humans,3,0.0,1.0,13.0,67.0,19.0
+165,1,Great Value,3,0.0,0.0,0.0,98.0,2.0
+166,1,Doesnt work at all I bougth it for my L7c and its not working,1,10.0,47.0,34.0,8.0,0.0
+167,1,The look of it is very sharp and the screen is nice and clear with great graphics,4,0.0,0.0,1.0,48.0,50.0
+168,1,doesnt last long,2,0.0,20.0,79.0,1.0,0.0
+169,1,One thing I hate is the mode set button at the side,1,15.0,42.0,27.0,15.0,1.0
+170,1,EXCELLENT SERVICE,2,1.0,5.0,53.0,41.0,0.0
+171,1,Thank you for wasting my money,1,10.0,47.0,34.0,8.0,0.0
+172,1,How can that beThe audio quality is poor,1,10.0,47.0,34.0,8.0,0.0
+173,1,The iGo chargers and tips are really great,3,0.0,1.0,1.0,50.0,48.0
+174,1,The file browser offers all the options that one needsHandsfree is great,3,2.0,7.0,12.0,50.0,29.0
+175,1,Superb Phone on a Great Network,3,0.0,1.0,13.0,65.0,21.0
+176,1,I connected my wifes bluetoothMotorola HS850 to my phone and it worked like a charm whether the phone was in my pocket or the case,3,2.0,7.0,12.0,50.0,29.0
+177,1,I put the latest OS on it v115g and it now likes to slow to a crawl and lock up every once in a while,1,15.0,42.0,27.0,15.0,1.0
+178,1,It only recognizes the Phone as its storage device,2,3.0,23.0,68.0,6.0,0.0
+179,1,If you like a loud buzzing to override all your conversations then this phone is for you,1,10.0,47.0,34.0,8.0,0.0
+180,1,Dont buy this product,2,0.0,2.0,57.0,40.0,1.0
+181,1,Ive had this bluetoooth headset for some time now and still not comfortable with the way it fits on the ear,1,7.0,34.0,28.0,28.0,3.0
+182,1,The sound quality is good and functionality is awesome,4,0.0,1.0,1.0,49.0,50.0
+183,1,I have this phone and it is a thorn in my side I really abhor it,2,4.0,25.0,49.0,19.0,3.0
+184,1,I recently had problems where I could not stay connected for more than 10 minutes before being disconnected,1,10.0,47.0,34.0,8.0,0.0
+185,1,Incredible,2,2.0,7.0,62.0,27.0,2.0
+186,1,Design Flaw,2,1.0,5.0,53.0,41.0,0.0
+187,1,Great phone,3,0.0,0.0,0.0,94.0,5.0
+188,1,Waste of 13 bucks,2,0.0,4.0,71.0,25.0,0.0
+189,1,But when I check voice mail at night the keypad backlight turns off a few seconds into the first message and then Im lost,1,10.0,47.0,34.0,8.0,0.0
+190,1,The replacement died in a few weeks,2,6.0,37.0,47.0,10.0,0.0
+191,1,Any ring toneOverall good phone to buy,2,0.0,3.0,66.0,30.0,1.0
+192,1,Lately they have been extremely nice and helpful on the phone,3,2.0,7.0,12.0,50.0,29.0
+193,1,I have had problems wit hit dropping signal and more,1,10.0,47.0,34.0,8.0,0.0
+194,1,Not impressed,2,0.0,0.0,100.0,0.0,0.0
+195,1,Light weight I hardly notice it is there,2,5.0,32.0,52.0,11.0,0.0
+196,1,Youll love how thin it is,2,1.0,11.0,51.0,34.0,2.0
+197,1,Bad Choice,1,3.0,93.0,4.0,0.0,0.0
+198,1,The pleather case doesnt fit,2,0.0,6.0,67.0,25.0,1.0
+199,1,useless phone simply deaf,1,11.0,52.0,32.0,5.0,0.0
+200,1,The color is even prettier than I thought it would be and the graphics are incredibly sharp,3,2.0,7.0,12.0,50.0,29.0
+201,1,All in all I think it was a good investment,3,0.0,2.0,13.0,58.0,26.0
+202,1,It makes very strange ticking noises before it ends the call,1,10.0,47.0,34.0,8.0,0.0
+203,1,The best electronics of the available FM Transmitters,2,1.0,11.0,50.0,35.0,3.0
+204,1,Battery lasts only a few hours,2,2.0,17.0,59.0,20.0,1.0
+205,1,great headset very impressed  H500,3,0.0,1.0,15.0,65.0,18.0
+206,1,The 12 mega pixel camera being a part of a phone is reasonably good7,1,10.0,47.0,34.0,8.0,0.0
+207,1,Ive had this for nearly 2 years and it has worked great for me,3,2.0,7.0,12.0,50.0,29.0
+208,1,Good transmit audio,3,0.0,0.0,23.0,74.0,2.0
+209,1,We are sending it back,2,1.0,11.0,51.0,34.0,2.0
+210,1,I did not bother contacting the company for few dollar product but I learned the lesson that I should not have bought this form online anyway,1,13.0,38.0,31.0,17.0,2.0
+211,1,If you hate earbugs avoid this phone by all means,1,35.0,39.0,19.0,4.0,3.0
+212,1,Great price also,3,0.0,0.0,1.0,56.0,44.0
+213,1,The range is very decent Ive been able to roam around my house with the phone in the living room with no receptionsound quality issues,3,2.0,10.0,20.0,49.0,19.0
+214,1,fast service,2,0.0,0.0,51.0,48.0,0.0
+215,1,I would highly recommend this,3,0.0,1.0,13.0,67.0,19.0
+216,1,I would recommend this,3,0.0,1.0,13.0,64.0,21.0
+217,1,I also didnt like the on button it felt like it would crack with use,2,5.0,33.0,51.0,11.0,0.0
+218,1,WORST PHONE EVER,2,0.0,2.0,94.0,3.0,0.0
+219,1,Im still infatuated with this phone,2,0.0,5.0,53.0,39.0,3.0
+220,1,Freezes frequently4,2,1.0,5.0,53.0,41.0,0.0
+221,1,Its kind of embarrassing to use because of how it looks and mostly its embarrassing how childlike the company is,2,2.0,17.0,59.0,21.0,1.0
+222,1,Simple lightweight and great fit,4,0.0,0.0,1.0,48.0,51.0
+223,1,All in all Id expected a better consumer experience from Motorola,3,2.0,12.0,26.0,46.0,14.0
+224,1,Theres a horrible tick sound in the background on all my calls that I have never experienced before,1,38.0,41.0,15.0,3.0,2.0
+225,1,These are certainly very comfortable and functionality is decent,3,0.0,0.0,1.0,54.0,44.0
+226,1,I usually dont like headbands but this one is very lightweight  doesnt mess up my hair,1,15.0,42.0,27.0,15.0,1.0
+227,1,Im a bit disappointed,1,29.0,47.0,20.0,3.0,1.0
+228,1,I have had this phone for over a year now and I will tell you its not that great,1,15.0,42.0,27.0,15.0,1.0
+229,1,I ordered this for sony Ericsson W810i but I think it only worked once thats when I first used it,2,4.0,25.0,49.0,19.0,3.0
+230,1,The battery is completely useless to me,1,15.0,42.0,27.0,15.0,1.0
+231,1,What a big waste of time,1,10.0,47.0,34.0,8.0,0.0
+232,1,Dont waste your  on this one,1,10.0,47.0,34.0,8.0,0.0
+233,1,Great sound and service,3,0.0,1.0,0.0,91.0,7.0
+234,1,Really pleased with this product so far,3,1.0,6.0,13.0,52.0,29.0
+235,1,One of my favorite purchases ever,2,0.0,3.0,49.0,45.0,3.0
+236,1,best bluetooth on the market,3,0.0,1.0,28.0,62.0,9.0
+237,1,Authentic leather with nice shine and comfort I recommend you this case,3,0.0,0.0,1.0,51.0,47.0
+238,1,I was very excited to get this headset because I thought it was really cute,3,2.0,7.0,12.0,50.0,29.0
+239,1,Do not make the same mistake as me,1,10.0,47.0,34.0,8.0,0.0
+240,1,Big Disappointment with calendar sync,2,0.0,0.0,97.0,3.0,0.0
+241,1,the phone was unusable and was not new,2,2.0,35.0,57.0,6.0,0.0
+242,1,Worst Customer Service Ever,2,0.0,0.0,100.0,0.0,0.0
+243,1,No additional ear gels provided and no instructions whatsoever,1,10.0,47.0,34.0,8.0,0.0
+244,1,It defeats the purpose of a bluetooth headset,2,2.0,17.0,59.0,21.0,1.0
+245,1,Worth every penny,3,0.0,0.0,0.0,95.0,5.0
+246,1,Excellent wallet type phone case,3,0.0,1.0,0.0,98.0,1.0
+247,1,Nice headphones for the price and they work great,3,0.0,2.0,13.0,58.0,26.0
+248,1,Internet is excrutiatingly slow,1,10.0,47.0,34.0,8.0,0.0
+249,1,It is very comfortable to wear as well which is probably the most important aspect about using a case,3,2.0,12.0,26.0,46.0,14.0
+250,1,Its fits like a glove and is strong secure and durable,3,2.0,7.0,12.0,50.0,29.0
+251,1,O my gosh the best phone I have ever had,3,2.0,7.0,12.0,50.0,29.0
+252,1,Its very attractive and appears to be of good quality,3,0.0,1.0,5.0,59.0,35.0
+253,1,I love all the features and form factor,3,0.0,2.0,18.0,68.0,13.0
+254,1,This product had a strong rubberpetroleum smell that was unbearable after a while and caused me to return it,2,5.0,20.0,35.0,32.0,8.0
+255,1,poor quality and service,3,2.0,14.0,14.0,65.0,5.0
+256,1,The cable looks so thin and flimsy it is scary,1,10.0,47.0,34.0,8.0,0.0
+257,1,Great Earpiece,3,0.0,0.0,0.0,98.0,2.0
+258,1,Excellent hands free tool,3,0.0,3.0,35.0,57.0,6.0
+259,1,Great for using with your home stereo,3,0.0,0.0,26.0,66.0,8.0
+260,1,Good product  incredible value,3,0.0,0.0,0.0,67.0,33.0
+261,1,Only had this a month but its worked flawlessly so far,2,2.0,14.0,61.0,22.0,1.0
+262,1,Works great,4,0.0,0.0,0.0,19.0,81.0
+263,1,Absolutel junk,1,18.0,81.0,0.0,0.0,0.0
+264,1,THAT one didnt work either,2,0.0,5.0,82.0,13.0,0.0
+265,1,Battery life is real good,3,0.0,0.0,5.0,70.0,26.0
+266,1,Returned 8 hours later,2,0.0,4.0,89.0,7.0,0.0
+267,1,Its a great item,3,0.0,2.0,26.0,66.0,5.0
+268,1,Dont waste your money,1,21.0,36.0,17.0,22.0,4.0
+269,1,Love this headset,3,0.0,0.0,3.0,95.0,1.0
+270,1,Not only will it drain your player but may also potentially fry it,2,5.0,20.0,35.0,32.0,8.0
+271,1,Worked perfectly,3,0.0,1.0,4.0,93.0,2.0
+272,1,Unreliable  Im giving up,2,0.0,1.0,73.0,26.0,0.0
+273,1,I gave it 5 stars because of the sound quality,2,4.0,25.0,49.0,19.0,3.0
+274,1,Avoid this one if you can,2,0.0,6.0,67.0,25.0,1.0
+275,1,Reversible plug works great,4,0.0,0.0,1.0,48.0,51.0
+276,1,I wasted my little money with this earpiece,1,21.0,50.0,25.0,3.0,1.0
+277,1,Very good phone,3,0.0,0.0,2.0,72.0,26.0
+278,1,Best of all is the rotating feature very helpful,3,0.0,0.0,1.0,54.0,45.0
+279,1,Comfort for our whole family,2,0.0,4.0,67.0,28.0,1.0
+280,1,Good product good seller,3,0.0,0.0,13.0,74.0,13.0
+281,1,I love this bluetooth,3,0.0,1.0,16.0,73.0,10.0
+282,1,First of all it doesnt wear well,3,0.0,1.0,13.0,67.0,19.0
+283,1,I am very impressed with this headset from Plantronics,3,2.0,7.0,12.0,50.0,29.0
+284,1,I got it because it was so small and adorable,3,2.0,7.0,12.0,50.0,29.0
+285,1,Great phone,3,0.0,0.0,0.0,94.0,5.0
+286,1,I wouldnt recommend buying this product,3,2.0,7.0,12.0,50.0,29.0
+287,1,Piece of Junk,2,0.0,4.0,80.0,15.0,0.0
+288,1,Poorly contstruct hinge,2,0.0,0.0,100.0,0.0,0.0
+289,1,This item is great installed it let it charged up overnite and it has been working good every since with no problems,2,5.0,19.0,34.0,34.0,8.0
+290,1,Great Phone,3,0.0,0.0,0.0,98.0,2.0
+291,1,Dont buy it,2,0.0,3.0,80.0,17.0,0.0
+292,1,Excellent Phone,3,0.0,0.0,9.0,90.0,0.0
+293,1,DO NOT PURCHASE THIS PHONE,2,0.0,29.0,70.0,1.0,0.0
+294,1,The voice recognition thru the handset is excellent,3,0.0,1.0,1.0,50.0,48.0
+295,1,This is hands down the best phone Ive ever had,3,2.0,7.0,13.0,50.0,28.0
+296,1,Works great when my cat attacked the phone he scratched the protective strip instead of destroying the screen,2,5.0,20.0,35.0,33.0,8.0
+297,1,This one works and was priced right,3,2.0,7.0,12.0,51.0,28.0
+298,1,Customer service was terrible,1,10.0,47.0,34.0,8.0,0.0
+299,1,Battery life still not long enough in Motorola Razor V3i,1,10.0,47.0,34.0,8.0,0.0
+300,1,Sending it back,2,0.0,6.0,82.0,12.0,0.0
+301,1,Now I know that I made a wise decision,3,1.0,3.0,13.0,62.0,22.0
+302,1,Someone shouldve invented this sooner,2,0.0,2.0,80.0,17.0,0.0
+303,1,Good price,3,0.0,1.0,6.0,88.0,6.0
+304,1,Everything worked on the first tryThe device was certainly engineered in a clever way and the construction feels good,3,0.0,2.0,13.0,58.0,26.0
+305,1,I received it quickly and it works great,3,1.0,2.0,4.0,53.0,39.0
+306,1,Has been working great,2,0.0,6.0,48.0,40.0,6.0
+307,1,As many people complained I found this headsets microphone was very weak,2,6.0,37.0,47.0,10.0,0.0
+308,1,My 5year old Nokia 2160 from Tracfone holds the charge a lot better than this,3,2.0,8.0,14.0,49.0,27.0
+309,1,They do not care about the consumer one bit,1,4.0,46.0,44.0,5.0,0.0
+310,1,This is a good battery and it got here really fast,4,0.0,0.0,1.0,48.0,50.0
+311,1,The instruction manual is lacking,1,12.0,81.0,2.0,5.0,0.0
+312,1,Also its slim enough to fit into my alarm clock docking station without removing the case,1,10.0,47.0,34.0,8.0,0.0
+313,1,Phone now holds charge like it did when it was new,3,2.0,7.0,12.0,50.0,29.0
+314,1,The battery is unreliable as well as the service use antena,3,4.0,17.0,32.0,38.0,10.0
+315,1,Its uncomfortable and the sound quality is quite poor compared with the phone Razr or with my previous wired headset that plugged into an LG,1,39.0,41.0,15.0,3.0,2.0
+316,1,We have gotten a lot of compliments on it,3,0.0,2.0,13.0,64.0,20.0
+317,1,This is definitely a must have if your state does not allow cell phone usage while driving,3,2.0,12.0,26.0,46.0,14.0
+318,1,I want my money back,2,3.0,20.0,70.0,7.0,0.0
+319,1,I love this device,3,0.0,2.0,13.0,58.0,26.0
+320,1,I am also very happy with the price,3,2.0,7.0,12.0,50.0,29.0
+321,1,I ordered this product first and was unhappy with it immediately,1,13.0,38.0,31.0,17.0,2.0
+322,1,The Ngage is still lacking in earbuds,1,10.0,47.0,34.0,8.0,0.0
+323,1,I was able to do voice dialing in the car with no problem,1,15.0,42.0,27.0,15.0,1.0
+324,1,I have 23 bars on my cell phone when I am home but you cant not hear anything,1,10.0,47.0,34.0,8.0,0.0
+325,1,good item low price,1,1.0,55.0,42.0,2.0,0.0
+326,1,Howeverthe riingtones are not the best and neither are the games,1,10.0,47.0,34.0,8.0,0.0
+327,1,The plug did not work very well,2,6.0,37.0,47.0,10.0,0.0
+328,1,AMAZON SUCKS,2,1.0,5.0,53.0,41.0,0.0
+329,1,Rip off Over charge shipping,2,2.0,35.0,57.0,6.0,0.0
+330,1,VERY comfortable,3,0.0,0.0,16.0,83.0,1.0
+331,1,The battery is working well as a replacement for the original that came with the phone over 2 years ago,3,2.0,8.0,15.0,50.0,25.0
+332,1,The reception is excellent,4,0.0,0.0,2.0,11.0,88.0
+333,1,It fits comfortably in either ear the sound is clear and loud and the charge lasts a couple of days,2,5.0,33.0,51.0,11.0,0.0
+334,1,very clear quality sound and you dont have to mess with the sound on your iPod since you have the sound buttons on the headset,1,15.0,42.0,27.0,15.0,1.0
+335,1,1 long lasting battery you dont have to recharge it as frequentyly as some of the flip phones2,3,0.0,0.0,9.0,54.0,36.0
+336,1,Obviously there is a problem with the adhesive,1,10.0,47.0,34.0,8.0,0.0
+337,1,Very disappointing,1,1.0,99.0,0.0,0.0,0.0
+338,1,It was an inexpensive piece but I would still have expected better quality,2,4.0,25.0,49.0,19.0,3.0
+339,1,It is practically useless and did not add any kind of boost to my reception after I bought it,1,39.0,41.0,15.0,3.0,2.0
+340,1,Excellent sound quality,3,0.0,0.0,8.0,86.0,6.0
+341,1,Was not happy,1,1.0,63.0,33.0,3.0,0.0
+342,1,A PIECE OF JUNK THAT BROKE AFTER BEING ON MY PHONE FOR 2 DAYS,2,2.0,17.0,59.0,21.0,1.0
+343,1,New Battery works great in phone,3,2.0,7.0,12.0,50.0,29.0
+344,1,Worst customer service,2,0.0,0.0,100.0,0.0,0.0
+345,1,Ive dropped my phone more times than I can say even on concrete and my phone is still great knock on wood,3,2.0,7.0,12.0,50.0,29.0
+346,1,Reception is terrible and full of static,1,23.0,49.0,24.0,4.0,1.0
+347,1,Good audio quality,3,0.0,0.0,1.0,84.0,15.0
+348,1,This little device has transformed my organizational capability and made my life a whole lot easier,3,3.0,13.0,13.0,61.0,11.0
+349,1,I was sitting in my vehicle with the cradle on my belt and the headset lost signal,1,10.0,47.0,34.0,8.0,0.0
+350,1,Were JERKS on the phone,2,0.0,6.0,80.0,15.0,0.0
+351,1,Works like a charm Works as advertised,3,2.0,7.0,12.0,50.0,29.0
+352,1,Comfortable Nice Range Good Battery Life,3,0.0,2.0,18.0,68.0,13.0
+353,1,Their network coverage in Los Angeles is horrible,1,30.0,47.0,19.0,2.0,1.0
+354,1,Excellent starter wireless headset,3,0.0,0.0,2.0,88.0,10.0
+355,1,The loudspeaker option is great the bumpers with the lights is very  appealing,3,2.0,7.0,12.0,50.0,29.0
+356,1,The only thing that I think could improve is the sound leaks out from the headset,1,10.0,47.0,34.0,8.0,0.0
+357,1,First off the reception sucks I have never had more than 2 bars ever,1,15.0,42.0,27.0,15.0,1.0
+358,1,The phone gets EXTREMELY HOT,2,0.0,0.0,100.0,0.0,0.0
+359,1,The microphone also works well but according to people I have called it applifies everything,2,2.0,17.0,59.0,21.0,1.0
+360,1,Nice design and quality,3,0.0,1.0,13.0,67.0,19.0
+361,1,Also if your phone is dropped this case is not going to save it specially when dropped face down,1,15.0,42.0,27.0,15.0,1.0
+362,1,It is light easy to use and has very clear reception and transmission,3,2.0,12.0,26.0,46.0,14.0
+363,1,bad fit way too big,1,31.0,49.0,18.0,2.0,1.0
+364,1,It definitely was not as good as my S11,1,10.0,47.0,34.0,8.0,0.0
+365,1,awesome device,3,0.0,0.0,2.0,74.0,24.0
+366,1,Waste of money,2,0.0,4.0,85.0,11.0,0.0
+367,1,I had ordered a motorola data cable got a very well finished and working product,2,5.0,20.0,35.0,32.0,8.0
+368,1,Love This Phone,3,0.0,1.0,0.0,99.0,0.0
+369,1,I was looking for this headset for a long time and now that Ive got it I couldnt be happier,1,15.0,42.0,27.0,15.0,1.0
+370,1,Ill be drivng along and my headset starts ringing for no reason,1,10.0,47.0,34.0,8.0,0.0
+371,1,Display is excellent and camera is as good as any from that year,4,0.0,0.0,1.0,45.0,54.0
+372,1,Battery life is also great,3,0.0,0.0,1.0,59.0,40.0
+373,1,The worst phone Ive ever had Only had it for a few months,1,28.0,48.0,21.0,2.0,1.0
+374,1,Not a good item It worked for a while then started having problems in my auto reverse tape player,3,2.0,13.0,22.0,51.0,12.0
+375,1,This is so embarassing and also my ears hurt if I try to push the ear plug into my ear,1,15.0,42.0,27.0,15.0,1.0
+376,1,Protects the phone on all sides,2,0.0,5.0,80.0,15.0,0.0
+377,1,This is a VERY average phone with bad battery life that operates on a weak network,1,15.0,42.0,27.0,15.0,1.0
+378,1,Clear Skype Calls Long Battery Life Long Range,2,0.0,5.0,84.0,11.0,0.0
+379,1,Soyo technology sucks,2,0.0,0.0,96.0,1.0,2.0
+380,1,Great Hands Free Device,3,0.0,0.0,29.0,63.0,7.0
+381,1,you can even take self portraits with the outside exterior display very cool,3,2.0,7.0,12.0,50.0,29.0
+382,1,Same problem as others have mentioned,1,4.0,46.0,44.0,5.0,0.0
+383,1,After trying many many handsfree gadgets this is the one that finally works well,3,2.0,12.0,26.0,46.0,14.0
+384,1,Magical Help,2,1.0,5.0,53.0,41.0,0.0
+385,1,The worst piece of crap ever along with the Verizon customer service,1,39.0,41.0,15.0,3.0,2.0
+386,1,Poor sound quality,2,2.0,38.0,49.0,11.0,0.0
+387,1,The best phone in market,3,0.0,0.0,9.0,60.0,30.0
+388,1,It worked very well,3,2.0,7.0,12.0,50.0,28.0
+389,1,The company shipped my product very promptly and it works well,3,2.0,7.0,12.0,50.0,29.0
+390,1,Exactly what I wanted,2,0.0,3.0,90.0,7.0,0.0
+391,1,The picture resolution is far below what other comparablypriced phones are offering today,1,10.0,47.0,34.0,8.0,0.0
+392,1,This is a great deal,3,2.0,7.0,12.0,50.0,29.0
+393,1,Excellent product I am very satisfied with the purchase,3,2.0,7.0,13.0,50.0,29.0
+394,1,I highly recommend these and encourage people to give them a try,4,0.0,0.0,1.0,48.0,51.0
+395,1,Better than youd expect,2,0.0,8.0,85.0,7.0,1.0
+396,1,Using all earpieces left or right this thing will not stay on my ear,1,15.0,42.0,27.0,15.0,1.0
+397,1,Great product and price,3,0.0,0.0,0.0,92.0,8.0
+398,1,Sounds good reasonably priced and effective Its that simple,3,0.0,4.0,28.0,54.0,13.0
+399,1,Still Waiting Im sure this item would work well if I ever recieve it,2,0.0,5.0,48.0,41.0,6.0
+400,1,what a disappointment,1,37.0,53.0,8.0,2.0,1.0
+401,1,Very prompt service,3,0.0,0.0,30.0,63.0,6.0
+402,1,Excellent product for the price,3,0.0,0.0,12.0,78.0,10.0
+403,1,Very pleased with this headset,3,0.0,2.0,13.0,63.0,21.0
+404,1,dont waste your money and time,1,10.0,47.0,34.0,8.0,0.0
+405,1,I especially love the long battery life,3,0.0,1.0,13.0,67.0,19.0
+406,1,Its so stupid to have to keep buying new chargers car chargers cradles headphones and car kits every time a new phone comes out,1,36.0,39.0,18.0,4.0,3.0
+407,1,Works great,4,0.0,0.0,0.0,19.0,81.0
+408,1,Plantronics Bluetooth Excelent Buy,2,0.0,6.0,81.0,14.0,0.0
+409,1,I came over from Verizon because cingulair has nicer cell phones the first thing I noticed was the really bad service,1,15.0,42.0,27.0,15.0,1.0
+410,1,Ill be looking for a new earpiece,2,0.0,5.0,80.0,15.0,0.0
+411,1,I highly recommend this device to everyone,3,1.0,4.0,12.0,61.0,23.0
+412,1,Jawbone Era is awesome too,3,0.0,2.0,33.0,62.0,3.0
+413,1,We received a WHITE colored battery that goes DEAD after a couple hoursTHe original used to last a week  but still lasts longer than thereplacement,3,2.0,7.0,12.0,50.0,29.0
+414,1,After a year the battery went completely dead on my headset,1,10.0,47.0,34.0,8.0,0.0
+415,1,I have used several phone in two years but this one is the best,3,2.0,7.0,12.0,50.0,29.0
+416,1,An Awesome New Look For Fall 2000,3,0.0,0.0,9.0,55.0,35.0
+417,1,This is the first phone Ive had that has been so cheaply made,2,4.0,25.0,49.0,19.0,3.0
+418,1,Att is not clear sound is very distorted and you have to yell when you talk,1,10.0,47.0,35.0,8.0,0.0
+419,1,The plastic breaks really easy on this clip,2,6.0,32.0,33.0,28.0,1.0
+420,1,Price is good too,2,0.0,4.0,54.0,40.0,3.0
+421,1,Dont make the same mistake I did,1,10.0,47.0,34.0,8.0,0.0
+422,1,Oh and I forgot to also mention the weird color effect it has on your phone,1,10.0,47.0,34.0,8.0,0.0
+423,1,Im using it with an iriver SPINN with case and it fits fine,3,2.0,7.0,12.0,50.0,29.0
+424,1,Also the area where my unit broke Im not too fond of the magnetic strap,2,5.0,20.0,35.0,32.0,8.0
+425,1,Overall I am psyched to have a phone which has all my appointments and contacts in and gets great reception,3,2.0,7.0,12.0,50.0,29.0
+426,1,every thing on phone work perfectly she like it,2,0.0,4.0,52.0,42.0,3.0
+427,1,Another note about this phones appearance is that it really looks rather bland especially in the all black model,1,15.0,42.0,27.0,15.0,1.0
+428,1,ITS REALLY EASY,2,0.0,0.0,100.0,0.0,0.0
+429,1,My Sanyo has survived dozens of drops on blacktop without ill effect,1,8.0,43.0,40.0,9.0,0.0
+430,1,Fantastic earphones,3,0.0,0.0,5.0,74.0,21.0
+431,1,It finds my cell phone right away when I enter the car,3,2.0,7.0,12.0,50.0,29.0
+432,1,Low Quality,1,2.0,97.0,1.0,0.0,0.0
+433,1,I highly recommend this modest priced cellular phone,3,2.0,7.0,12.0,50.0,29.0
+434,1,But it does get better reception and clarity than any phone Ive had before,3,2.0,7.0,12.0,50.0,29.0
+435,1,Warning  Stay away,4,37.0,4.0,1.0,1.0,56.0
+436,1,I wish I could return the unit and get back my money,2,4.0,25.0,49.0,19.0,3.0
+437,1,Awsome Device Works Great,4,0.0,0.0,1.0,48.0,51.0
+438,1,I used to talk on it for 1  1 12 hours and the battery would be literally drained and dying,1,15.0,42.0,27.0,15.0,1.0
+439,1,If you dont find it too bad as again the unit comes with one earpad onlyI would not recommend this to anyone,1,39.0,41.0,15.0,3.0,2.0
+440,1,Very Displeased,2,0.0,0.0,59.0,38.0,2.0
+441,1,I might have gotten a defect but I would not risk buying it again because of the built quality alone,1,13.0,38.0,31.0,17.0,2.0
+442,1,They made this case too small and is very difficult to install,1,39.0,41.0,15.0,3.0,2.0
+443,1,Restored my phone to like new performance,2,0.0,6.0,67.0,25.0,1.0
+444,1,I would recommend purchasing the Jabra JX10 series 2 which works flawlessly with my Moto Q go figure,2,5.0,19.0,34.0,33.0,8.0
+445,1,I searched the Internet and found this one to be the best value,3,2.0,12.0,26.0,46.0,14.0
+446,1,Does not fit,2,0.0,24.0,75.0,1.0,0.0
+447,1,Very happy with this product,3,0.0,0.0,9.0,69.0,22.0
+448,1,The screen size is big key pad lit well enough and the camera quality is excellent for a camera phone,3,2.0,7.0,12.0,50.0,29.0
+449,1,Theres really nothing bad I can say about this headset,1,38.0,41.0,15.0,3.0,2.0
+450,1,im glad i found this product on amazon it is hard to find it wasnt high priced,2,5.0,20.0,35.0,32.0,8.0
+451,1,Portable and it works,3,0.0,3.0,29.0,59.0,7.0
+452,1,My colleague  I now get great receptionA little expensive but performance is great,3,2.0,7.0,12.0,50.0,29.0
+453,1,I even fully charged it before I went to bed and turned off blue tooth and wifi and noticed that it only had 20  left in the morning,2,5.0,20.0,35.0,32.0,8.0
+454,1,Ive also had problems with the phone reading the memory card in which I always turn it on and then off again,1,10.0,47.0,34.0,8.0,0.0
+455,1,Not good when wearing a hat or sunglasses,2,1.0,17.0,64.0,17.0,1.0
+456,1,Timely shipment and quality product,2,0.0,2.0,53.0,44.0,2.0
+457,1,Nice solid keyboard,3,0.0,0.0,1.0,64.0,35.0
+458,1,Very well made and fits my Surefire GX2 perfectly,4,0.0,0.0,1.0,46.0,53.0
+459,1,Horrible phone,0,76.0,22.0,1.0,1.0,0.0
+460,1,BT50 battery junk,0,75.0,25.0,0.0,0.0,0.0
+461,1,We would recommend these to others,2,5.0,19.0,35.0,33.0,8.0
+462,1,Cant get the software to work with my computer,2,4.0,25.0,49.0,19.0,3.0
+463,1,Disappointed,2,2.0,7.0,62.0,27.0,2.0
+464,1,poor voice clarity,1,4.0,47.0,44.0,5.0,0.0
+465,1,The battery works great,4,0.0,0.0,2.0,10.0,88.0
+466,1,No buyers remorse on this one,2,1.0,20.0,76.0,3.0,0.0
+467,1,Very disappointed in AccessoryOne,3,3.0,3.0,18.0,62.0,14.0
+468,1,I find this inexcusable and so will probably be returning this phone and perhaps changing carriers,1,10.0,47.0,34.0,8.0,0.0
+469,1,Looks great and is strong,4,0.0,0.0,2.0,12.0,86.0
+470,1,I have had TMobile service for 2 or 3 years now and I am pretty happy with it,3,2.0,7.0,12.0,50.0,29.0
+471,1,The update procedure is difficult and cumbersome,1,10.0,47.0,35.0,8.0,0.0
+472,1,Disappointment I hate anything that goes in my ear,1,10.0,47.0,34.0,8.0,0.0
+473,1,Great software for Motorolas,3,0.0,0.0,13.0,72.0,15.0
+474,1,The delivery was on time,2,0.0,3.0,67.0,29.0,1.0
+475,1,Very easy to use,3,0.0,3.0,35.0,57.0,6.0
+476,1,Uncomfortable In the Ear Dont use with LG VX9900 EnV,2,2.0,17.0,59.0,21.0,1.0
+477,1,The volume switch rocketed out of the unit to a destination unknown,2,5.0,20.0,35.0,32.0,7.0
+478,1,It holds a charge for a long time is reasonably comfortable under longwearing conditions and the quality of sound is tremendous,3,2.0,7.0,12.0,50.0,29.0
+479,1,Id like to return it,2,5.0,34.0,50.0,10.0,0.0
+480,1,The keyboard is really worthwhile in usefulness and is sturdy enough I dont expect any problems,3,2.0,12.0,26.0,46.0,14.0
+481,1,Verizons bills however are difficult to understand even though their pricing plans are simple,3,6.0,22.0,28.0,36.0,7.0
+482,1,After charging overnight these batteries work great,3,0.0,2.0,13.0,58.0,26.0
+483,1,You wont regret it,1,4.0,46.0,45.0,5.0,0.0
+484,1,I love this phone,3,1.0,5.0,13.0,53.0,28.0
+485,1,A Disappointment,2,0.0,0.0,99.0,1.0,0.0
+486,1,Its not user friendly,1,14.0,43.0,28.0,14.0,1.0
+487,1,Unfortunately the ability to actually know you are receiving a call is a rather important feature and this phone is pitiful in that respect,1,39.0,41.0,15.0,3.0,2.0
+488,1,Then I exchanged for the same phone even that had the same problem,1,15.0,42.0,27.0,15.0,1.0
+489,1,This results in the phone being either stuck at max volume or mute,2,3.0,21.0,52.0,21.0,3.0
+490,1,This PDA rocks,3,0.0,2.0,1.0,58.0,38.0
+491,1,It is super charged up for use as a small hybrid palmtopcameracellphone and excels in those roles,2,5.0,20.0,35.0,32.0,8.0
+492,1,I would definitely recommend the Jabra BT250v for those who are looking for comfort clarity and a great price,3,2.0,7.0,12.0,50.0,29.0
+493,1,I had Verizon 2 years ago and really liked their service,3,2.0,7.0,12.0,50.0,29.0
+494,1,Pretty piece of junk,1,35.0,61.0,1.0,3.0,0.0
+495,1,Plug was the wrong size,2,5.0,35.0,49.0,10.0,0.0
+496,1,Works as described,2,1.0,30.0,37.0,31.0,0.0
+497,1,Save your money Ive had this item for 11 months now,2,6.0,33.0,55.0,5.0,1.0
+498,1,Bad Purchase,1,3.0,93.0,4.0,0.0,0.0
+499,1,WELL IM SATISFIED,2,0.0,0.0,100.0,0.0,0.0
+500,1,The bose noise cancelling is amazing which is very important for a NYC commuter,3,2.0,7.0,12.0,50.0,29.0
+501,1,This battery is an excellent bargain,4,0.0,0.0,1.0,48.0,51.0
+502,1,Defective crap,0,69.0,31.0,0.0,0.0,0.0
+503,1,I would have given no star if I was able,1,10.0,47.0,34.0,8.0,0.0
+504,1,I wear glasses and it fits fine with them,1,7.0,33.0,28.0,29.0,3.0
+505,1,The sound quality for the device is unacceptableUnless you are in a really quiet area you almost hear nothing,3,1.0,9.0,27.0,47.0,15.0
+506,1,I would not recommend this item to anyone,1,15.0,42.0,27.0,15.0,1.0
+507,1,The holster that arrived did not match the photo in the ad,2,6.0,37.0,47.0,10.0,0.0
+508,1,greatno problems at all,1,19.0,71.0,7.0,2.0,0.0
+509,1,As an earlier review noted plug in this charger and nothing happens,1,14.0,42.0,27.0,15.0,1.0
+510,1,This frog phone charm is adorable and very eye catching,4,0.0,0.0,1.0,48.0,50.0
+511,1,You never know if you pushed it hard enough or the right number of times for the function you want or not,1,10.0,47.0,34.0,8.0,0.0
+512,1,The sound is clear and the people I talk to on it are amazed at the quality too,2,5.0,20.0,35.0,32.0,8.0
+513,1,I got the aluminum case for my new Palm VX and it worked really wellit has protected my handheld perfectly so far,3,2.0,7.0,12.0,50.0,29.0
+514,1,very good product well made,3,0.0,0.0,0.0,50.0,50.0
+515,1,Mobile Phone Tools are a must have,2,0.0,2.0,70.0,28.0,0.0
+516,1,I am very impressed with the job that Motorola did on the sturdiness of this phone,3,2.0,12.0,26.0,46.0,14.0
+517,1,I received my orders well within the shipping timeframe everything was in good working order and overall I am very excited to have this source,3,2.0,7.0,12.0,50.0,29.0
+518,1,The phone is sturdy and waterproof,2,0.0,4.0,55.0,39.0,2.0
+519,1,I am not impressed with this and i would not recommend this item to anyone,1,15.0,42.0,27.0,15.0,1.0
+520,1,My only complaint is the standard sound volume is a little low even when turned up to 5of 5,1,15.0,42.0,27.0,15.0,1.0
+521,1,Thanks again to Amazon for having the things I need for a good price,3,2.0,7.0,12.0,50.0,29.0
+522,1,I ended up sliding it on the edge of my pants or back pockets instead,2,6.0,36.0,47.0,10.0,0.0
+523,1,I had to go to a store and bought a new NOKIA phone which is working great,3,2.0,7.0,12.0,50.0,29.0
+524,1,Works great,4,0.0,0.0,0.0,19.0,81.0
+525,1,REALLY UGLY,2,1.0,5.0,53.0,41.0,0.0
+526,1,horrible had to switch 3 times,1,29.0,50.0,19.0,2.0,1.0
+527,1,The noise shield is incrediable,2,0.0,2.0,80.0,17.0,0.0
+528,1,No real improvement,1,0.0,58.0,42.0,0.0,0.0
+529,1,Razr Battery  Good buy,3,0.0,4.0,42.0,46.0,8.0
+530,1,Keep up the good work Amazon,2,0.0,3.0,52.0,43.0,3.0
+531,1,They refuse to refund or replace,2,1.0,13.0,73.0,13.0,0.0
+532,1,Unfortunately its easy to accidentally activate them with the gentletouch buttons if you accidentally touch the phone to your face while listening,1,28.0,48.0,21.0,2.0,1.0
+533,1,So I basically threw my money out the window for nothing,1,10.0,47.0,34.0,8.0,0.0
+534,1,Great case and price,3,0.0,0.0,0.0,84.0,16.0
+535,1,All it took was one drop from about 6 inches above the kitchen counter and it was crackedI am not impressed and I am not laughing,1,15.0,42.0,27.0,15.0,1.0
+536,1,Bluetooth range is good  a few days ago I left my phone in the trunk got a call and carried the conversation without a hitch,3,1.0,10.0,27.0,47.0,15.0
+537,1,Small sleek impressive looking practical setup with ample storage in place,4,0.0,0.0,1.0,48.0,51.0
+538,1,The eargels channel the sound directly into your ear and seem to increase the sound volume and clarity,3,2.0,12.0,26.0,46.0,14.0
+539,1,none of the new ones have ever quite worked properly,2,5.0,20.0,35.0,32.0,8.0
+540,1,I am glad I purchased it,2,0.0,6.0,67.0,25.0,1.0
+541,1,Ive missed numerous calls because of this reason,1,9.0,42.0,39.0,9.0,0.0
+542,1,Perhaps my phone is defective but people cannot hear me when I use this,1,10.0,47.0,34.0,8.0,0.0
+543,1,Dont buy this product,2,0.0,2.0,57.0,40.0,1.0
+544,1,sucked most of the stuff does not work with my phone,1,36.0,43.0,16.0,3.0,2.0
+545,1,No shifting no bubbling no peeling not even a scratch NOTHINGI couldnt be more happier with my new one for the Droid,1,15.0,42.0,27.0,15.0,1.0
+546,1,Worst software ever used If I could give this zero stars I would,1,10.0,47.0,34.0,8.0,0.0
+547,1,Trying to make a call on these is an exercise in frustration,1,15.0,42.0,27.0,15.0,1.0
+548,1,The case is a flimsy piece of plastic and has no front or side protection whatsoever,1,15.0,42.0,27.0,15.0,1.0
+549,1,I own a Jabra Earset and was very happy with it but the sound quality especially outgoing on this is better,3,1.0,6.0,12.0,50.0,31.0
+550,1,I love the camera its really pretty good quality,3,1.0,3.0,13.0,62.0,22.0
+551,1,Thank you for such great service,3,2.0,7.0,12.0,50.0,29.0
+552,1,Its a total package,2,0.0,4.0,70.0,25.0,0.0
+553,1,The seller is very understanding and patient I would definitely buy from them again,3,1.0,6.0,12.0,50.0,31.0
+554,1,I give Wirefly 1 starI will contact CingularATT and inform them of this practice,3,0.0,3.0,34.0,56.0,7.0
+555,1,Its AGGRAVATING,3,0.0,1.0,19.0,80.0,0.0
+556,1,Great product for the price,3,0.0,0.0,9.0,59.0,32.0
+557,1,I have purchased these for both family and friends and all enjoy their clarity and ease of use,3,2.0,12.0,26.0,46.0,14.0
+558,1,Virgin Wireless rocks and so does this cheap little phone,3,2.0,7.0,12.0,50.0,29.0
+559,1,None of it works just dont buy it,3,2.0,7.0,12.0,50.0,29.0
+560,1,Muddy low quality sound and the casing around the wires insert was poorly super glued and slid off,1,39.0,41.0,15.0,3.0,2.0
+561,1,Please dont waste your money,1,15.0,42.0,27.0,15.0,1.0
+562,1,All in all Im quite satisfied with this purchase,2,2.0,17.0,44.0,32.0,5.0
+563,1,If you are looking for a good quality Motorola Headset keep looking this isnt it,3,1.0,6.0,12.0,50.0,31.0
+564,1,Yet Plantronincs continues to use the same flawed charger design,1,10.0,47.0,34.0,8.0,0.0
+565,1,Disapointing Results,2,1.0,5.0,53.0,41.0,0.0
+566,1,Cumbersome design,2,0.0,1.0,78.0,21.0,0.0
+567,1,Great it was new packaged nice works good no problems and it came in less time then I expected,3,0.0,0.0,9.0,55.0,35.0
+568,1,Great Product,3,0.0,0.0,0.0,98.0,2.0
+569,1,Its A PIECE OF CRAP,2,0.0,4.0,77.0,18.0,0.0
+570,1,My experience was terrible This was my fourth bluetooth headset and while it was much more comfortable than my last Jabra which I HATED,1,39.0,41.0,15.0,3.0,2.0
+571,1,This fixes all the problems,2,3.0,36.0,53.0,7.0,0.0
+572,1,Worst ever,2,0.0,0.0,99.0,0.0,0.0
+573,1,I am very happy,3,0.0,1.0,13.0,67.0,19.0
+574,1,Ive had no trouble accessing the Internet downloading ringtones or performing any of the functions,1,10.0,47.0,34.0,8.0,0.0
+575,1,I can barely ever hear on it and am constantly saying what,1,10.0,47.0,34.0,8.0,0.0
+576,1,The battery life is highly unacceptable,1,10.0,47.0,34.0,8.0,0.0
+577,1,That company is a joke,2,6.0,37.0,47.0,10.0,0.0
+578,1,It does everything the description said it would,3,1.0,9.0,33.0,51.0,7.0
+579,1,Due to this happening on every call I was forced to stop using this headset,1,15.0,42.0,27.0,15.0,1.0
+580,1,It works great with a car charger especially if you cannot plug in two adapters at the same time,3,2.0,12.0,26.0,46.0,14.0
+581,1,Verizon tech support walked my through a few procedures none of which worked and I ended up having to do a hard reset wiping out all my data,1,39.0,41.0,15.0,3.0,2.0
+582,1,Voice Quality Signal Strength Dropped Calls,2,0.0,5.0,80.0,15.0,0.0
+583,1,It plays louder than any other speaker of this size the price is so low that most would think the quality is lacking however its not,1,15.0,42.0,27.0,15.0,1.0
+584,1,Better than expected,2,0.0,5.0,68.0,26.0,1.0
+585,1,It feels poorly constructed the menus are difficult to navigate and the buttons are so recessed that it is difficult to push them,1,39.0,41.0,15.0,3.0,2.0
+586,1,Battery is holding up well,2,2.0,17.0,44.0,33.0,6.0
+587,1,Also difficult to put onId recommend avoiding this product,1,38.0,40.0,15.0,4.0,3.0
+588,1,I only used it two days and it wasnt always easy to hear with,2,6.0,33.0,55.0,6.0,1.0
+589,1,I got the car charger and not even after a week the charger was brokenI went to plug it in and it started smoking,1,15.0,42.0,27.0,15.0,1.0
+590,1,Sprint  terrible customer service,1,21.0,36.0,18.0,22.0,4.0
+591,1,Linked to my phone without effort,2,3.0,23.0,67.0,6.0,0.0
+592,1,THey are so cool,3,0.0,2.0,27.0,66.0,5.0
+593,1,Easy to use,2,0.0,1.0,93.0,6.0,0.0
+594,1,Better Than New,2,0.0,0.0,82.0,18.0,0.0
+595,1,What possesed me to get this junk I have no idea,1,15.0,42.0,27.0,15.0,1.0
+596,1,Piece of trash,1,28.0,48.0,21.0,2.0,1.0
+597,1,A pretty good product,3,0.0,0.0,2.0,74.0,25.0
+598,1,This is a great phone,3,2.0,7.0,12.0,50.0,29.0
+599,1,For the price on Amazon it is an excellent product which I would highly recommend,3,2.0,7.0,12.0,50.0,29.0
+600,1,Their Research and Development division obviously knows what theyre doing,3,2.0,12.0,26.0,46.0,14.0
+601,1,The real killer is the volume and of course it breaking,2,2.0,17.0,59.0,21.0,1.0
+602,1,Those phones are working just fine now,2,0.0,2.0,70.0,28.0,0.0
+603,1,I am more than happy with this product,3,2.0,7.0,12.0,50.0,29.0
+604,1,Poor Construction,1,0.0,61.0,39.0,0.0,0.0
+605,1,This is infuriating,1,44.0,52.0,2.0,1.0,0.0
+606,1,Overall I would recommend this phone over the new Walkman,2,4.0,25.0,49.0,19.0,3.0
+607,1,Sprint charges for this service,2,0.0,5.0,80.0,15.0,0.0
+608,1,It is cheap and it feel and look just as cheap,1,39.0,41.0,15.0,3.0,2.0
+609,1,It fits my ear well and is comfortable on,3,0.0,0.0,1.0,59.0,40.0
+610,1,It doesnt work in Europe or Asia,2,2.0,17.0,59.0,21.0,1.0
+611,1,clipping this to your belt will deffinitely make you feel like 50 cents upandcoming,2,4.0,25.0,49.0,19.0,3.0
+612,1,I like design and look of Jabra behing the ear headsets and 5020 is pretty comfortible to wear 24 hours a day without pain in the ear,1,15.0,42.0,27.0,15.0,1.0
+613,1,I was amazed at the quick arrival of the two original lg cell phone batteries and and at a fraction of the price,3,2.0,12.0,27.0,46.0,14.0
+614,1,the worst phone from samsungcrap this crappy Samsung E715 is the worst i have ever seeen,0,43.0,42.0,9.0,3.0,2.0
+615,1,the charger worked for about a week and then completely stopped charging my phone,2,2.0,17.0,59.0,21.0,1.0
+616,1,Poor product,1,1.0,98.0,1.0,0.0,0.0
+617,1,However I needed some better instructions,2,1.0,23.0,65.0,11.0,0.0
+618,1,You need two hands to operate the screenThis software interface is decade old and cannot compete with new software designs,1,15.0,42.0,27.0,15.0,1.0
+619,1,Worked very well paired with a Treo 700w and as a Skype headset on my PC using a USB Bluetooth transceiver,3,2.0,11.0,26.0,47.0,14.0
+620,1,Steer clear of this product and go with the genuine Palm replacementr pens which come in a threepack,2,4.0,24.0,48.0,20.0,3.0
+621,1,DO NOT BUY DO NOT BUYIT SUCKS,1,6.0,47.0,40.0,6.0,0.0
+622,1,This is a great product sure beats using your fingers,3,0.0,1.0,1.0,50.0,48.0
+623,1,Plus I seriously do not believe it is worth its steep price point,1,10.0,47.0,34.0,8.0,0.0
+624,1,All the other cases Ive tried normally fall apart after a few months but this one seems to be in for the long haul,1,15.0,42.0,27.0,15.0,1.0
+625,1,Very Dissapointing Performance,3,0.0,1.0,36.0,59.0,4.0
+626,1,Dont make the same mistake that I did and please dont buy this phone,1,15.0,42.0,27.0,15.0,1.0
+627,1,This phone might well be the worst Ive ever had in any brand,1,7.0,33.0,28.0,29.0,3.0
+628,1,Case was more or less an extra that I originally put on but later discarded because it scratched my ear,2,5.0,20.0,35.0,32.0,8.0
+629,1,I recommend iGo to anyone with different brand cell phonesmp3 players in the family,3,2.0,7.0,13.0,51.0,28.0
+630,1,Dont bother  go to the store,2,3.0,21.0,65.0,10.0,0.0
+631,1,I posted more detailed comments under the grey or black phone but i have the Fire Red and its a great color,3,2.0,7.0,12.0,50.0,29.0
+632,1,I did not have any problem with this item and would order it again if needed,1,10.0,47.0,34.0,8.0,0.0
+633,1,You get what you pay for I guess,2,3.0,21.0,70.0,6.0,0.0
+634,1,Not only did the software do a great job of this I could also make my own ringtones form my existing CDs without an internet connection,2,5.0,20.0,35.0,32.0,8.0
+635,1,im surprised this is a good quality car charger and theres not much reviews about it,3,2.0,13.0,28.0,44.0,12.0
+636,1,These are fabulous,3,0.0,1.0,25.0,72.0,2.0
+637,1,However BT headsets are currently not good for real time games like firstperson shooters since the audio delay messes me up,2,5.0,20.0,35.0,32.0,8.0
+638,1,I used bitpim a free program you can find on the internetto transfer data to the phoneThe price of the cable was excellent,3,2.0,7.0,12.0,50.0,29.0
+639,1,Disappointing accessory from a good manufacturer,1,6.0,47.0,41.0,6.0,0.0
+640,1,Performed awful  muffled tinny incoming sound and severe echo for those on the other end of the call,1,28.0,48.0,21.0,2.0,1.0
+641,1,Very windresistant,2,0.0,0.0,59.0,38.0,2.0
+642,1,Obviously they have a terrible customer service so you get what you pay for,1,15.0,42.0,27.0,15.0,1.0
+643,1,They do not last forever but is not overly expensive to replaceEasy to operate and the sound is much better than others I have tried,1,6.0,34.0,29.0,28.0,3.0
+644,1,I contacted the company and they told me that although the unit was still under warranty if I couldnt produce my receipt I was out of luck,2,5.0,20.0,35.0,32.0,8.0
+645,1,Linksys should have some way to exchange a bad phone for a refurb unit or something,1,10.0,47.0,34.0,8.0,0.0
+646,1,Phone is sturdy as all nokia bar phones are,2,0.0,6.0,68.0,25.0,1.0
+647,1,Great phone,3,0.0,0.0,0.0,94.0,5.0
+648,1,When I placed my treo into the case not only was it NOT snug but there was A LOT of extra room on the sides,3,5.0,28.0,30.0,32.0,4.0
+649,1,Im pleased,4,0.0,0.0,0.0,34.0,65.0
+650,1,Battery is terrible,1,13.0,77.0,10.0,0.0,0.0
+651,1,I found the product to be easy to set up and use,2,3.0,18.0,56.0,21.0,2.0
+652,1,The earpiece on this is too large or too heavyit keeps falling out of my ear,1,10.0,47.0,34.0,8.0,0.0
+653,1,Utter crap Sound quality is TERRIBLE,1,4.0,46.0,44.0,5.0,0.0
+654,1,The charger arrived within the promised timeframe but it did not work,2,6.0,37.0,47.0,10.0,0.0
+655,1,No ear loop needed its tiny and the sound is great,3,4.0,22.0,20.0,50.0,3.0
+656,1,Finally after three or four times the spring of the latch broke and I could not use it any longer on the visor,1,15.0,42.0,27.0,15.0,1.0
+657,1,The handsfree part works fine but then the car tries to download the address book and the Treo rebootsOverall I still rate this device high,3,2.0,7.0,12.0,50.0,29.0
+658,1,Talk about USELESS customer service,2,0.0,5.0,80.0,15.0,0.0
+659,1,It felt too light and tinny,2,6.0,36.0,47.0,10.0,0.0
+660,1,This does not fit the Palm Tungsten E2 and it broke the first time I tried to plug it in,1,15.0,42.0,27.0,15.0,1.0
+661,1,Im happy about this purchase good quality and low price,3,0.0,2.0,28.0,59.0,10.0
+662,1,I love the look and feel of Samsung flipphones,3,0.0,2.0,18.0,68.0,13.0
+663,1,Its welldesigned and very sharp  the blue is a very nice color,3,1.0,4.0,7.0,54.0,34.0
+664,1,Does everything it should and more,2,1.0,16.0,71.0,12.0,0.0
+665,1,I could not recommend these more,1,10.0,47.0,34.0,8.0,0.0
+666,1,Nice Sound,3,0.0,0.0,29.0,70.0,0.0
+667,1,Looks good in the picture but this case was a huge disappointment,3,1.0,9.0,27.0,47.0,15.0
+668,1,Much less than the jawbone I was going to replace it with,2,6.0,33.0,55.0,5.0,1.0
+669,1,Setup went very smoothly,3,0.0,0.0,1.0,52.0,47.0
+670,1,its extremely slow and takes forever to do anything with it,1,15.0,42.0,27.0,15.0,1.0
+671,1,A must study for anyone interested in the worst sins of industrial design,1,10.0,47.0,34.0,8.0,0.0
+672,1,The first thing that happened was that the tracking was off,2,2.0,17.0,59.0,21.0,1.0
+673,1,It is well made easy to access the phone and has a handy detachable belt clip,3,2.0,12.0,26.0,46.0,14.0
+674,1,Then I had to continue pairing it periodically since it somehow kept dropping,3,2.0,7.0,12.0,50.0,29.0
+675,1,Cant upload ringtones from a third party,2,0.0,8.0,78.0,13.0,0.0
+676,1,Bluetooth does not work phone locks up screens just flash up and now it just makes calls randomly while in my pocket locked,1,15.0,42.0,27.0,15.0,1.0
+677,1,Truly awful,0,71.0,28.0,0.0,0.0,0.0
+678,1,It works fine on my Motorola 325 cellphone and a lot better than the wornout battery did,3,2.0,7.0,12.0,50.0,29.0
+679,1,The volume for the ringer is REAL good you have choices how loud,3,1.0,9.0,27.0,47.0,15.0
+680,1,And none of the tones is acceptable,2,2.0,18.0,69.0,10.0,0.0
+681,1,camera color balance is AWFUL,2,0.0,3.0,80.0,17.0,0.0
+682,1,This product is clearly not ready for prime time I dont care how cool it looks if you cant tell a call is coming in its worthless,1,36.0,39.0,18.0,4.0,3.0
+683,1,I love the ringtones because they are so upbeat,3,2.0,7.0,13.0,51.0,28.0
+684,1,Chinese Forgeries Abound,2,0.0,0.0,100.0,0.0,0.0
+685,1,Easy to pair with my Samsung Cell,2,1.0,16.0,71.0,12.0,0.0
+686,1,The instructions didnt explain that a microphone jack could be used,2,2.0,17.0,59.0,21.0,1.0
+687,1,i would advise to not purchase this item it never worked very well,1,15.0,42.0,27.0,15.0,1.0
+688,1,Too bad you have to pay up to  a month for the service,1,28.0,48.0,21.0,2.0,1.0
+689,1,Works well,3,0.0,0.0,2.0,63.0,35.0
+690,1,The nokia CA42 USB cable did not work with my phone,1,10.0,47.0,34.0,8.0,0.0
+691,1,Clear crisp sound,3,0.0,0.0,0.0,82.0,17.0
+692,1,I have to use the smallest earpieces provided but it stays on pretty well,3,2.0,7.0,12.0,50.0,29.0
+693,1,The biggest complaint I have is the battery drains superfast,1,9.0,43.0,39.0,9.0,0.0
+694,1,The design might be ergonomic in theory but I could not stand having these in my ear,1,15.0,42.0,27.0,15.0,1.0
+695,1,Do NOT buy if you want to use the holster,1,10.0,47.0,35.0,8.0,0.0
+696,1,The phone can also take great pictures and even video clips,3,0.0,2.0,23.0,64.0,12.0
+697,1,It doesnt make you look cool,3,0.0,3.0,35.0,56.0,6.0
+698,1,Because both ears are occupied background is not distracting at all,1,10.0,47.0,34.0,8.0,0.0
+699,1,Comfortable fit  you need your headset to be comfortable for at least an hour at a time if not for an entire day,2,2.0,17.0,58.0,21.0,2.0
+700,1,Also the phone doesnt seem to accept anything except CBR mp3s preferably ripped by Windows Media Player,2,5.0,33.0,51.0,11.0,0.0
+701,1,You cant beat the price on these,3,0.0,3.0,13.0,63.0,21.0
+702,1,Comes with a strong light that you can use to light up your camera shots and even flash SOS signals seriously,3,1.0,9.0,27.0,47.0,15.0
+703,1,lightweight and works well,2,2.0,36.0,56.0,6.0,0.0
+704,1,So just beware,1,48.0,52.0,0.0,0.0,0.0
+705,1,I love this cable  it allows me to connect any miniUSB device to my PC,3,2.0,12.0,26.0,46.0,14.0
+706,1,So anyone near you will hear part of your conversation,2,3.0,21.0,52.0,21.0,3.0
+707,1,This is cool because most cases are just open there allowing the screen to get all scratched up,3,2.0,12.0,26.0,46.0,14.0
+708,1,I bought this phone as a replacement for my StarTac and have regretted it since,2,3.0,18.0,56.0,21.0,2.0
+709,1,Appears to actually outperform the original battery from China that came with my V325i,2,2.0,17.0,44.0,33.0,6.0
+710,1,Cant store anything but phone numbers to SIM,2,0.0,6.0,67.0,25.0,1.0
+711,1,It lasts less than 3o minutes if I actually try to use the phoneMy wife has the same phone with the same problem,1,15.0,42.0,27.0,15.0,1.0
+712,1,Poor quality,1,5.0,87.0,3.0,5.0,1.0
+713,1,jabra ear gels R the best,3,0.0,1.0,13.0,66.0,20.0
+714,1,Not worth it,2,0.0,6.0,54.0,39.0,1.0
+715,1,The phone crashed completely and now I have to get it replaced,2,6.0,37.0,47.0,10.0,0.0
+716,1,It quit working after Id used it for about 18 months so I just purchased another one because this is the best headset Ive ever owned,2,5.0,20.0,35.0,32.0,8.0
+717,1,Unfortunately it will not recharge my iPhone 4s despite connecting it from multiple power sources iMac external battery wall outlet etc,0,51.0,42.0,3.0,2.0,2.0
+718,1,It was a great phone,3,0.0,1.0,13.0,66.0,19.0
+719,1,if you simply want a small flip phone  look elsewhere as the extra bells  whistles are mediocre,1,15.0,42.0,27.0,15.0,1.0
+720,1,Good value works fine  power via USB car or wall outlet,3,0.0,0.0,9.0,57.0,33.0
+721,1,My phone doesnt slide around my car now and the grip prevents my phone from slipping out of my hand,1,15.0,42.0,27.0,15.0,1.0
+722,1,This is simply the BEST bluetooth headset for sound quality,1,10.0,47.0,34.0,8.0,0.0
+723,1,Think it over when you plan to own this oneThis sure is the last MOTO phone for me,2,6.0,37.0,47.0,10.0,0.0
+724,1,In the span of an hour I had two people exclaim Whoa  is that the new phone on TV,2,5.0,20.0,35.0,32.0,8.0
+725,1,I have always used corded headsets and the freedom from the wireless is very helpful,3,2.0,7.0,12.0,50.0,29.0
+726,1,This case has passed the one year mark and while it shows signs of wear it is 100 functional,3,10.0,30.0,22.0,35.0,4.0
+727,1,Other than that the leather is nice and soft the fit is very tight the cut out for the face is a good shape,3,2.0,6.0,11.0,51.0,30.0
+728,1,It has everything I need and I couldnt ask for more,2,4.0,25.0,49.0,19.0,3.0
+729,1,After receiving and using the product for just 2 days it broke,2,2.0,17.0,59.0,21.0,1.0
+730,1,This product is great it makes working a lot easier I can go to the copier while waiting on hold for something,3,1.0,9.0,27.0,47.0,15.0
+731,1,None of the three sizes they sent with the headset would stay in my ears,2,6.0,37.0,47.0,10.0,0.0
+732,1,TMobile has the best customer service anywhere,3,1.0,2.0,13.0,62.0,22.0
+733,1,Arrived quickly and much less expensive than others being sold,1,10.0,47.0,34.0,8.0,0.0
+734,1,We have tried 2 units and they both failed within 2 months Pros,1,9.0,42.0,39.0,9.0,0.0
+735,1,Provides good protection and looks classy too,3,1.0,6.0,30.0,55.0,8.0
+736,1,Krussel Always good,3,0.0,0.0,0.0,97.0,3.0
+737,1,The tracfonewebsite is user friendly and makes it easy toactivate etc,3,0.0,0.0,1.0,65.0,35.0
+738,1,The design is very good4,2,0.0,6.0,68.0,25.0,1.0
+739,1,I great reception all the time,3,0.0,1.0,17.0,74.0,9.0
+740,1,I would highly recommend this product,3,0.0,1.0,13.0,67.0,19.0
+741,1,Couldnt use the unit with sunglasses not good in Texas,2,5.0,33.0,51.0,11.0,0.0
+742,1,It dit not work most of the time with my Nokia 5320,1,10.0,47.0,34.0,8.0,0.0
+743,1,Bought mainly for the charger which broke soon after purchasing,2,0.0,5.0,80.0,15.0,0.0
+744,1,If you like a loud buzzing to override all your conversations then this phone is for you,1,10.0,47.0,34.0,8.0,0.0
+745,1,Fantastic buy and will get again for whatever my next phone is,3,1.0,6.0,12.0,50.0,31.0
+746,1,stay away from this store be careful,2,2.0,18.0,61.0,17.0,1.0
+747,1,This BlueAnt Supertooth handsfree phone speaker is AWESOME,2,2.0,17.0,59.0,21.0,1.0
+748,1,Does not fit,2,0.0,24.0,75.0,1.0,0.0
+749,1,Item arrived quickly and works great with my Metro PCS Samsung SCHr450 slider phone and Sony Premium Sound in ear plugs,3,2.0,7.0,12.0,50.0,29.0
+750,1,It is light has plenty of battery capacity and is very confortable to wear for somewhat extended periods of time,3,2.0,12.0,26.0,46.0,14.0
+751,1,disappointing,0,77.0,16.0,1.0,4.0,1.0
+752,1,Blue Ant is easy to use,2,0.0,5.0,80.0,15.0,0.0
+753,1,Cheap but hey it works Was pleasantly suprised given the low cost of this item,3,2.0,7.0,12.0,50.0,29.0
+754,1,The camera on the phone may be used as a dustpan when indoors Id rather be using a disposable then this,1,15.0,42.0,27.0,15.0,1.0
+755,1,Then a few days later the a puff of smoke came out of the phone while in use,2,2.0,14.0,61.0,22.0,1.0
+756,1,Its very convenient and simple to use  gets job done  makes the car ride so much smoother,3,2.0,11.0,28.0,48.0,12.0
+757,1,The nano stated itMy son was dissapointed,2,0.0,6.0,68.0,24.0,1.0
+758,1,The sound quality is excellent as well,3,0.0,0.0,1.0,56.0,43.0
+759,1,Its the best headset I have used,2,1.0,11.0,50.0,35.0,2.0
+760,1,Would not reccommend,2,0.0,10.0,90.0,0.0,0.0
+761,1,They have been around for years and carries the highest quality of antiglare screen protector that I have found to date,3,3.0,14.0,29.0,42.0,12.0
+762,1,Just what I wanted,2,0.0,4.0,81.0,15.0,0.0
+763,1,This particular model would not work with my Motorola Q smartphone,1,10.0,47.0,34.0,8.0,0.0
+764,1,wont work right or atleast for me,2,0.0,6.0,68.0,25.0,1.0
+765,1,in addition it feels amp looks as if the phone is all lightweight cheap plastic,2,6.0,37.0,47.0,10.0,0.0
+766,1,But now that it is out of warranty the same problems reoccureBottom line put your money somewhere else Cingular will not support it,1,38.0,41.0,15.0,4.0,2.0
+767,1,I really wanted the Plantronics 510 to be the right one but it has too many issues for meThe good,1,15.0,42.0,27.0,15.0,1.0
+768,1,Great product,4,0.0,0.0,0.0,45.0,54.0
+769,1,Crisp and Clear,2,0.0,4.0,59.0,37.0,0.0
+770,1,AFter the first charge kept going dead after 12 minutes,2,5.0,33.0,51.0,11.0,0.0
+771,1,VERY cheap plastic creaks like an old wooden floor,1,39.0,41.0,15.0,3.0,2.0
+772,1,I get absolutely horrible reception in my apartment where with other phones I have not had this problem,1,10.0,47.0,34.0,8.0,0.0
+773,1,The reception has been generally good,3,0.0,1.0,13.0,66.0,19.0
+774,1,Excellent sound battery life and inconspicuous to boot,3,1.0,9.0,36.0,47.0,7.0
+775,1,Great bluetooth,3,0.0,0.0,0.0,98.0,2.0
+776,1,I highly recommend this case,3,2.0,7.0,13.0,51.0,28.0
+777,1,WORTHWHILE,2,2.0,7.0,62.0,27.0,2.0
+778,1,This is a great deal,3,2.0,7.0,12.0,50.0,29.0
+779,1,After my phone got to be about a year old its been slowly breaking despite much care on my part,1,12.0,46.0,32.0,10.0,1.0
+780,1,I am sorry I made this purchase,2,6.0,33.0,55.0,5.0,1.0
+781,1,I bought these hoping I could make my Bluetooth headset fit better but these things made it impossible to wear,1,10.0,47.0,34.0,8.0,0.0
+782,1,Treo and TMobile refused to replace it again and forced me to buy another phone without any kind of upgrade discount,3,2.0,12.0,26.0,46.0,14.0
+783,1,It was horrible,1,38.0,41.0,16.0,3.0,2.0
+784,1,I dont think it would hold it too securly on your belt,1,10.0,47.0,34.0,8.0,0.0
+785,1,This allows the possibility of double booking for the same date and time after the first,2,3.0,21.0,52.0,21.0,3.0
+786,1,They work about 2 weeks then break,2,0.0,3.0,80.0,17.0,0.0
+787,1,It is simple to use and I like it,2,2.0,17.0,59.0,21.0,1.0
+788,1,Its a great tool for entertainment communication and data managementOh be sure to use ActiveSync 42 for optimal data synchronization results,3,1.0,9.0,27.0,47.0,15.0
+789,1,I cant use this case because the smell is disgusting,1,10.0,47.0,34.0,8.0,0.0
+790,1,NOT WHAT I WANTED,2,2.0,35.0,57.0,6.0,0.0
+791,1,I own 2 of these cases and would order another,2,3.0,18.0,56.0,21.0,2.0
+792,1,Great Phone,3,0.0,0.0,0.0,98.0,2.0
+793,1,I bought this battery with a coupon from Amazon and Im very happy with my purchase,3,2.0,7.0,12.0,50.0,29.0
+794,1,The internet access was fine it the rare instance that it worked,3,2.0,7.0,12.0,50.0,29.0
+795,1,Perfect for the PS3,2,0.0,5.0,85.0,9.0,0.0
+796,1,Five star Plus plus,3,0.0,0.0,23.0,72.0,5.0
+797,1,A good quality bargain I bought this after I bought a cheapy from Big Lots that sounded awful and people on the other end couldnt hear me,3,1.0,6.0,12.0,50.0,31.0
+798,1,50 Down the drain,2,1.0,20.0,76.0,3.0,0.0
+799,1,I tried talking real loud but shouting on the telephone gets old and I was still told it wasnt great,2,5.0,20.0,35.0,32.0,8.0
+800,1,Good  works fine,4,0.0,0.0,0.0,32.0,67.0
+801,1,For the price this was a great deal,3,0.0,2.0,13.0,58.0,26.0
+802,1,Great price too,3,0.0,0.0,28.0,60.0,11.0
+803,1,If there is a wind it is completely useless,1,15.0,42.0,27.0,15.0,1.0
+804,1,Yes its shiny on front side  and I love it,3,2.0,11.0,26.0,47.0,14.0
+805,1,Does Not Work,2,0.0,1.0,99.0,0.0,0.0
+806,1,At first I thought I was grtting a good deal at 744 until I plugged it into my phone V3c Razr,3,1.0,6.0,13.0,52.0,28.0
+807,1,The reception through this headset is excellent,3,0.0,1.0,1.0,50.0,48.0
+808,1,2 thumbs up to this seller,3,8.0,26.0,17.0,41.0,9.0
+809,1,I have a Verizon LG phone and they work well together good reception and range that exceeds 20 feet line of sight,3,2.0,7.0,12.0,50.0,29.0
+810,1,Improper description I had to return it,1,21.0,44.0,31.0,3.0,1.0
+811,1,1 It Works  2 It is Comfortable,2,4.0,22.0,44.0,25.0,4.0
+812,1,Battery chargelife is quite long,2,2.0,35.0,57.0,6.0,0.0
+813,1,The Jabra EarGels fit my ears very well,3,0.0,1.0,33.0,62.0,4.0
+814,1,Battery has no life,1,6.0,47.0,40.0,6.0,0.0
+815,1,I checked everywhere and there is no feature for it which is really disappointing,1,15.0,42.0,27.0,15.0,1.0
+816,1,Product is exactly as described,2,0.0,4.0,55.0,39.0,2.0
+817,1,Gets a signal when other Verizon phones wont,2,1.0,15.0,71.0,12.0,0.0
+818,1,Doesnt do the job,2,0.0,11.0,75.0,13.0,0.0
+819,1,I would recommend it,3,0.0,4.0,23.0,55.0,17.0
+820,1,Plan on ordering from them again and again,2,0.0,5.0,80.0,15.0,0.0
+821,1,That being said for a phone the camera is very nice many cool effects to play with and video is decent as well,3,1.0,6.0,12.0,50.0,31.0
+822,1,I have been very satisfied with this cell phone from day one,2,2.0,14.0,61.0,22.0,1.0
+823,1,They keep getting better and better this is my third one and Ive had numerous Palms too,2,5.0,33.0,51.0,11.0,0.0
+824,1,Awkward to use and unreliable,2,0.0,6.0,68.0,25.0,1.0
+825,1,The shipping time was also very quick,2,0.0,6.0,67.0,25.0,1.0
+826,1,Not as good as I had hoped,2,0.0,7.0,88.0,5.0,0.0
+827,1,Good case,3,0.0,0.0,0.0,100.0,0.0
+828,1,Doesnt Work,2,0.0,5.0,94.0,0.0,0.0
+829,1,Really good product,3,0.0,0.0,6.0,63.0,30.0
+830,1,Unfortunately it did not work,1,10.0,47.0,34.0,8.0,0.0
+831,1,All three broke within two months of use,2,0.0,5.0,80.0,15.0,0.0
+832,1,dont buy it,2,0.0,2.0,80.0,17.0,0.0
+833,1,My father has the V265 and the battery is dying,1,29.0,48.0,20.0,2.0,1.0
+834,1,However the ear pads come off easily and after only one week I lost one,1,10.0,47.0,34.0,8.0,0.0
+835,1,The calls drop the phone comes on and off at will the screen goes black and the worst of all it stops ringing intermittently,1,10.0,47.0,34.0,8.0,0.0
+836,1,Horrible horrible protector,0,91.0,2.0,8.0,0.0,0.0
+837,1,I dont like this Nokia either,2,1.0,13.0,62.0,22.0,1.0
+838,1,Reaching for the bottom row is uncomfortable and the send and end keys are not where I expect them to be3,1,17.0,43.0,26.0,13.0,1.0
+839,1,I have bought this Nokia cell phone a few weeks ago and it was a nightmare,1,15.0,42.0,27.0,15.0,1.0
+840,1,It would take too long to describe how bad my customer service experience has been with Amazon,1,39.0,41.0,15.0,3.0,2.0
+841,1,the only VERY DISAPPOINTING thing was there was NO SPEAKERPHONE,2,3.0,23.0,68.0,6.0,0.0
+842,1,Terrible My car will not accept this cassette,1,38.0,41.0,15.0,3.0,2.0
+843,1,Product is useless since it does not have enough charging current to charge the 2 cellphones I was planning to use it with,1,28.0,48.0,21.0,2.0,1.0
+844,1,Its not what it says it is,1,10.0,47.0,34.0,8.0,0.0
+845,1,Stay Away From the Q,2,3.0,30.0,48.0,18.0,0.0
+846,1,Used and dirty,2,0.0,6.0,73.0,21.0,0.0
+847,1,Very unreliable service from Tmobile,3,0.0,2.0,34.0,58.0,6.0
+848,1,Not good enough for the price,3,0.0,2.0,48.0,48.0,1.0
+849,1,I bought two of them and neither will charge,2,6.0,37.0,47.0,10.0,0.0
+850,1,It looks very nice,3,0.0,1.0,13.0,67.0,19.0
+851,1,This is an excellent tool especially when paired with your phones autoanswer,3,0.0,1.0,5.0,64.0,29.0
+852,1,I have read others reviews here but I havent had any problem with it,2,6.0,37.0,47.0,10.0,0.0
+853,1,These products cover up the important light sensor above the ear outlet,2,4.0,25.0,49.0,19.0,3.0
+854,1,Comfortable in my hand,2,0.0,4.0,71.0,24.0,0.0
+855,1,Just does not work,2,2.0,30.0,62.0,6.0,0.0
+856,1,Poor Reliability,1,0.0,61.0,39.0,0.0,0.0
+857,1,It works,2,0.0,0.0,61.0,38.0,0.0
+858,1,If I take a picture the battery drops a bar and starts beeping letting me know its dieing,3,2.0,7.0,12.0,50.0,29.0
+859,1,Terrible product and waste of money,1,28.0,48.0,21.0,2.0,1.0
+860,1,Last time buying from you,2,2.0,17.0,59.0,21.0,1.0
+861,1,It was a waste of my money,1,24.0,49.0,23.0,3.0,1.0
+862,1,So far it has worked like a charm,3,6.0,14.0,19.0,42.0,19.0
+863,1,I have only had it for a few weeks but so far so good,2,5.0,20.0,35.0,32.0,8.0
+864,1,But in any case the best part is you can download these pictures to your laptop using IR or even send pictures from your laptop to the phone,3,2.0,12.0,26.0,46.0,14.0
+865,1,Would recommend this item,3,0.0,0.0,23.0,69.0,8.0
+866,1,Its been my choice headset for yearsGreat sound good volume good noise cancellation,2,5.0,20.0,35.0,32.0,8.0
+867,1,Nice case feels good in your hands,3,2.0,7.0,12.0,50.0,29.0
+868,1,The item received was Counterfeit,2,0.0,2.0,54.0,43.0,1.0
+869,1,Just really good So far probably the best BT headset I have ever had,3,1.0,6.0,12.0,50.0,31.0
+870,1,Works fine,4,0.0,0.0,1.0,18.0,81.0
+871,1,I received my headset in good time and was happy with it,3,2.0,7.0,13.0,51.0,28.0
+872,1,I was very pleased to see that I could replace my well travled swivel holster for my Blackberry flip,3,2.0,7.0,12.0,50.0,29.0
+873,1,My sister has one also and she loves it,3,0.0,2.0,13.0,58.0,26.0
+874,1,Good Quality,2,0.0,0.0,50.0,48.0,1.0
+875,1,This is by far the worst purchase Ive made on Amazon,1,10.0,47.0,34.0,8.0,0.0
+876,1,Excellent dualpurpose headset,3,0.0,0.0,35.0,65.0,0.0
+877,1,Excellent,2,2.0,11.0,43.0,27.0,17.0
+878,1,Does not work for listening to music with the cingular 8125,1,4.0,46.0,44.0,5.0,0.0
+879,1,It seems completely secure both holding on to my belt and keeping the iPhone inside,2,5.0,20.0,35.0,32.0,8.0
+880,1,The bottowm lineanother worthless cheap gimmick from Sprint,2,6.0,37.0,47.0,10.0,0.0
+881,1,Having trouble with volume,2,2.0,32.0,61.0,6.0,0.0
+882,1,The only good thing was that it fits comfortably on small ears,2,1.0,12.0,52.0,33.0,2.0
+883,1,WARNING  DO NOT BUY,1,4.0,46.0,44.0,5.0,0.0
+884,1,I am pairing this with my iphone and I could not be happier with it so far,3,2.0,12.0,15.0,62.0,10.0
+885,1,When it opens the battery connection is broken and the device is turned off,2,5.0,33.0,51.0,11.0,0.0
+886,1,I didnt want the clip going over the top of my ear causing discomfort,1,10.0,47.0,34.0,8.0,0.0
+887,1,Best headset ever,3,0.0,0.0,29.0,63.0,7.0
+888,1,Dont trust their website and dont expect any helpful support,3,2.0,12.0,26.0,46.0,14.0
+889,1,It was that loudGlad to say that the Plantronics 510 maintains a flawless connection to my cell and with no static during normal use,2,5.0,20.0,35.0,32.0,8.0
+890,1,The speaker is of low quality so as making the ring tones sound very cheap,1,15.0,42.0,27.0,15.0,1.0
+891,1,Fits comfortably came with three sizes of earbud tips,2,2.0,17.0,43.0,33.0,6.0
+892,1,Excellent product for the price,3,0.0,0.0,12.0,78.0,10.0
+893,1,Bad Reception,1,3.0,93.0,4.0,0.0,0.0
+894,1,This product is very High quality Chinese CRAP,3,2.0,7.0,12.0,50.0,29.0
+895,1,It was quite comfortable in the ear,3,0.0,1.0,13.0,66.0,19.0
+896,1,Great phone,3,0.0,0.0,0.0,94.0,5.0
+897,1,Dont buy this product  It fails,1,15.0,42.0,27.0,15.0,1.0
+898,1,Everything about this product is wrongFirst,2,0.0,5.0,68.0,26.0,1.0
+899,1,The pairing of the two devices was so easy it barely took a couple minutes before I started making calls with the voice dialing feature,2,5.0,20.0,35.0,32.0,8.0
+900,1,This was utterly confusing at first which caused me to lose a couple of very very important contacts,1,15.0,42.0,27.0,15.0,1.0
+901,1,Terrible phone holder,1,32.0,33.0,11.0,18.0,6.0
+902,1,The cutouts and buttons are placed perfectly,3,0.0,4.0,29.0,54.0,13.0
+903,1,I love being able to use one headset for both by landline and cell,3,0.0,2.0,18.0,68.0,13.0
+904,1,Problem is that the ear loops are made of weak material and break easily,1,10.0,47.0,34.0,8.0,0.0
+905,1,Not nearly as good looking as the AMAZON picture makes it look,3,2.0,7.0,13.0,50.0,28.0
+906,1,But despite these few flaws this case is of exceptional quality and well worth the additional costs of owning an official OEM product,2,5.0,19.0,34.0,33.0,8.0
+907,1,How stupid is that,1,40.0,53.0,4.0,2.0,2.0
+908,1,I can hear while Im driving in the car and usually dont even have to put it on its loudest setting,2,5.0,33.0,51.0,11.0,0.0
+909,1,Seller shipped quickly and much cheaper than the competitors,1,10.0,47.0,34.0,8.0,0.0
+910,1,Good show Samsung,2,0.0,0.0,89.0,11.0,0.0
+911,1,So I bought about 10 of these and saved alot of money,2,4.0,25.0,49.0,19.0,3.0
+912,1,It always cuts out and makes a beep beep beep sound then says signal failed,1,31.0,43.0,18.0,5.0,2.0
+913,1,Couldnt figure it out,2,1.0,20.0,76.0,2.0,0.0
+914,1,My phone sounded OK  not great  OK but my wifes phone was almost totally unintelligible she couldnt understand a word being said on it,2,2.0,17.0,59.0,21.0,1.0
+915,1,So I had to take the battery out of the phone put it all back together and then restart it,2,4.0,30.0,56.0,10.0,0.0
+916,1,While I managed to bend the leaf spring back in place the metal now has enough stress that it will break on the next drop,1,10.0,47.0,34.0,8.0,0.0
+917,1,Leopard Print is wonderfully wild,4,0.0,0.0,1.0,48.0,51.0
+918,1,Works for me,2,0.0,6.0,64.0,29.0,1.0
+919,1,Saggy floppy piece of junk,0,57.0,6.0,8.0,3.0,26.0
+920,1,much better than the hard plastic cases,2,1.0,9.0,52.0,35.0,3.0
+921,1,It also had a new problem,2,5.0,33.0,51.0,11.0,0.0
+922,1,Happy so far,3,0.0,0.0,1.0,94.0,4.0
+923,1,cool phone,2,0.0,0.0,74.0,26.0,0.0
+924,1,Works good,3,0.0,0.0,0.0,77.0,22.0
+925,1,Motorola finally got the voice quality of a bluetooth headset right,3,2.0,7.0,12.0,50.0,29.0
+926,1,It looses connection to the phone even when it is within a couple feet between the two,2,2.0,17.0,59.0,21.0,1.0
+927,1,but it is great i would really recommend it,3,0.0,0.0,1.0,51.0,48.0
+928,1,Makes it easier to keep up with my bluetooth when Im not wearing it,2,2.0,10.0,64.0,24.0,1.0
+929,1,As I said abovePRETTY USELESS,2,0.0,3.0,94.0,3.0,0.0
+930,1,Never got it,2,1.0,12.0,86.0,1.0,0.0
+931,1,This pair of headphones is the worst that I have ever had soundwise,1,13.0,45.0,30.0,12.0,1.0
+932,1,down the drain because of a weak snap,1,10.0,47.0,34.0,8.0,0.0
+933,1,Does not charge the Cingular ATT 8525 phone,1,4.0,46.0,44.0,5.0,0.0
+934,1,You get extra minutes so that you can carry out the call and not get cut off,2,5.0,20.0,35.0,32.0,8.0
+935,1,However after about a year the fliptop started to get loose and wobbly and eventually my screen went black and I couldnt receive and place calls,1,10.0,47.0,34.0,8.0,0.0
+936,1,I kept catching the cable on the seat and I had to pull the phone out to turn it on an off,1,11.0,46.0,32.0,10.0,1.0
+937,1,The headset fulfills my requirements so I am happy with my purchase,3,0.0,2.0,13.0,58.0,26.0
+938,1,Logitech Bluetooth Headset is a 10,2,0.0,0.0,100.0,0.0,0.0
+939,1,I like the fact that it rests lightly against your ear rather than inside,2,3.0,18.0,56.0,21.0,2.0
+940,1,A lot of websites have been rating this a very good phone and so do I,3,0.0,4.0,29.0,54.0,13.0
+941,1,I have tried these cables with my computer and my iPod and it works just fine,3,2.0,7.0,12.0,50.0,29.0
+942,1,The mic there is a joke and the volume is quite low,1,15.0,42.0,27.0,15.0,1.0
+943,1,Im returning them,2,0.0,5.0,90.0,5.0,0.0
+944,1,I does not maintain a connection with the computer while it is on my lap,1,10.0,47.0,34.0,8.0,0.0
+945,1,It is easy to turn on and off when you are in the car and the volume controls are quite accessable,2,4.0,25.0,49.0,19.0,3.0
+946,1,I have had mine for about a year and this Christmas I bought some for the rest of the family,2,4.0,25.0,49.0,19.0,3.0
+947,1,Otherwise easy to install and use clear sound,2,1.0,14.0,73.0,13.0,0.0
+948,1,nice leather,3,0.0,0.0,40.0,59.0,1.0
+949,1,I had to purchase a different case,2,2.0,17.0,59.0,20.0,1.0
+950,1,It is a joy to use,3,2.0,7.0,12.0,50.0,29.0
+951,1,Very much disappointed with this company,3,3.0,28.0,33.0,34.0,2.0
+952,1,Very satisifed with that,3,0.0,3.0,35.0,56.0,6.0
+953,1,It didnt charge for me,2,1.0,16.0,71.0,12.0,0.0
+954,1,This is the phone to get for 2005 I just bought my S710a and all I can say is WOW,2,6.0,31.0,55.0,8.0,1.0
+955,1,Buttons are too small,1,4.0,46.0,44.0,5.0,0.0
+956,1,Just reading on the specs alone makes you say WOW,2,5.0,20.0,35.0,32.0,8.0
+957,1,Love it Great armband,3,0.0,0.0,1.0,55.0,44.0
+958,1,I really like this product over the Motorola because it is allot clearer on the ear piece and the mic,2,4.0,25.0,49.0,19.0,3.0
+959,1,However the keypads are so tinny that I sometimes reach the wrong buttons,1,9.0,44.0,38.0,9.0,0.0
+960,1,I exchanged the sony ericson z500a for this and Im pretty happy with that decision,1,10.0,47.0,34.0,8.0,0.0
+961,1,I was very impressed with the price of the cases,3,0.0,1.0,13.0,67.0,19.0
+962,1,Also makes it easier to hold on to,2,2.0,17.0,59.0,21.0,1.0
+963,1,I use this product in a motor control center where there is a lot of high voltage humming from the equipment and it works great,3,2.0,12.0,26.0,46.0,14.0
+964,1,Its pretty easy,3,0.0,1.0,47.0,52.0,0.0
+965,1,I cannot make calls at certain places,1,10.0,47.0,34.0,8.0,0.0
+966,1,however my girl was complain that some time the phone doesnt wake up like normal phone does,2,5.0,33.0,51.0,11.0,0.0
+967,1,Beautiful styling though,3,0.0,0.0,32.0,47.0,21.0
+968,1,This company charge me a restocking fee and still not given me my refund back,1,10.0,47.0,34.0,8.0,0.0
+969,1,Im trying to return it for a refund,1,10.0,47.0,34.0,8.0,0.0
+970,1,I plugged it in only to find out not a darn thing worked,1,10.0,47.0,34.0,8.0,0.0
+971,1,Excellent product,3,0.0,0.0,0.0,99.0,1.0
+972,1,Earbud piece breaks easily,2,0.0,3.0,74.0,23.0,0.0
+973,1,Lousy product,2,0.0,2.0,87.0,11.0,0.0
+974,1,This phone tries very hard to do everything but fails at its very ability to be a phone,1,14.0,42.0,27.0,15.0,1.0
+975,1,It is the best charger I have seen on the market yet,3,2.0,12.0,26.0,46.0,14.0
+976,1,SWEETEST PHONE,2,0.0,0.0,97.0,3.0,0.0
+977,1,Oh the charger seems to work fine,3,0.0,3.0,40.0,52.0,5.0
+978,1,It fits so securely that the ear hook does not even need to be used and the sound is better directed through your ear canal,1,15.0,42.0,27.0,15.0,1.0
+979,1,Not enough volume,2,0.0,9.0,90.0,1.0,0.0
+980,1,Echo ProblemVery unsatisfactory,2,0.0,0.0,100.0,0.0,0.0
+981,1,you could only take 2 videos at a time and the quality was very poor,1,15.0,42.0,27.0,15.0,1.0
+982,1,dont waste your money,1,21.0,36.0,17.0,22.0,4.0
+983,1,I am going to have to be the first to negatively review this product,2,4.0,25.0,49.0,19.0,3.0
+984,1,Adapter does not provide enough charging current,1,6.0,47.0,40.0,6.0,0.0
+985,1,There was so much hype over this phone that I assumed it was the best my mistake,2,5.0,20.0,35.0,32.0,8.0
+986,1,You also cannot take pictures with it in the case because the lense is covered,1,10.0,47.0,34.0,8.0,0.0
+987,1,Phone falls out easily,1,4.0,47.0,44.0,5.0,0.0
+988,1,It didnt work people can not hear me when I talk,1,10.0,47.0,34.0,8.0,0.0
+989,1,The text messaging feature is really tricky to use,2,0.0,6.0,67.0,25.0,1.0
+990,1,Im really disappointed all I have now is a charger that doesnt work,1,24.0,44.0,22.0,8.0,2.0
+991,1,Painful on the ear,1,3.0,89.0,0.0,7.0,1.0
+992,1,Lasted one day and then blew up,2,0.0,6.0,68.0,25.0,1.0
+993,1,disappointed,1,11.0,83.0,0.0,3.0,2.0
+994,1,Kind of flops around,2,6.0,37.0,46.0,10.0,0.0
+995,1,The screen does get smudged easily because it touches your ear and face,2,2.0,17.0,59.0,21.0,1.0
+996,1,What a piece of junk I lose more calls on this phone,1,10.0,47.0,34.0,8.0,0.0
+997,1,Item Does Not Match Picture,2,0.0,8.0,89.0,3.0,0.0
+998,1,The only thing that disappoint me is the infra red port irda,1,10.0,47.0,34.0,8.0,0.0
+999,1,You can not answer calls with the unit never worked once,1,10.0,47.0,34.0,8.0,0.0
