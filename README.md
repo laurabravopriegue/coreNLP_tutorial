@@ -18,5 +18,7 @@ https://towardsdatascience.com/sentence-embeddings-and-corenlps-recursive-sentim
 
 **Tutorial 3:**
 
+Transfer Learning and RNN — the CoreNLP Series pt III
+
 Using coreNLP for making cross-domain sentiment predictions
 
