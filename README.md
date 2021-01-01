@@ -16,5 +16,7 @@ Understand and implement Stanford's CoreNLP Sentiment Model.
 
 https://towardsdatascience.com/sentence-embeddings-and-corenlps-recursive-sentiment-model-d88af7f7b4f5
 
+**Tutorial 3:**
 
+Using coreNLP for making cross-domain sentiment predictions
 
